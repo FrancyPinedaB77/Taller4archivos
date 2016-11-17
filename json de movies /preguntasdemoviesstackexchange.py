@@ -33,17 +33,17 @@ from_date=2015-02-01 #  mes y dia
 
 questions= site.questions(pagesize=page_size, page=page_index, fromdate=from_date, order="asc")
 
-print questions
+#print questions
 #coleccion.insert_one(questions)
 
 
-#Haciendolo por otro metodo
+#Haciendolo por otro metodo  https://api.stackexchange.com/docs/answers#order=desc&sort=activity&filter=default&site=stackoverflow&run=true
 
 #c= 'https://api.stackexchange.com/2.2/info?site=movies.stackexchange' #informacion de movies.stackmovies
 #c='https://api.stackexchange.com/2.2/answers?order=desc&sort=activity&site=movies.stackexchange' #Trae los id de las preguntas t de  las respuestas 
-url='https://api.stackexchange.com/2.2/answers?fromdate=1451606400&todate=1479340800&order=desc&sort=activity&site=movies.stackexchange&filter=!b0OfNQNpi--7V1'
+respuesta='https://api.stackexchange.com/2.2/answers?fromdate=1451606400&todate=1479340800&order=desc&sort=activity&site=movies.stackexchange&filter=!b0OfNQNpi--7V1'
 
-resp = requests.get(url=url)
+resp = requests.get(url=respuesta)
 #data = json.loads(resp.text)
 
 data = json.loads(resp.text)
