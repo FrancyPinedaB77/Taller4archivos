@@ -1,0 +1,1776 @@
+{
+  "rss": {
+    "-version": "2.0",
+    "channel": {
+      "title": "All Films that have Appeared on the IMDb Top 250",
+      "link": "http://www.imdb.com/list/ls003569487/",
+      "description": "This is a list of the 883 films that have appeared on the [link=http://www.imdb.com/chart/top]IMDb Top 250[/link]. It is sorted by order of first appearance and then by rank at the time of first appearance. The list of films is current as of October 4, 2015. The data for each film is current as of September 9, 2011. More current information can be found at the sources listed below.
+
+Sources:
+[b][link=http://top250.info/]IMDb Top250.Informer[/link][/b]
+[link=http://top250.info/]
+
+[b][link=http://www.took.nl/250/titles/index/page:1]Titles of the IMDb Top 250[/link][/b]
+[link=http://www.took.nl/250/titles/index/page:1]
+
+[b][link=http://www.timo-schreiter.de/imdb/all_top250_titles.php]All titles of the IMDb Top 250 since September 1997[/link][/b]
+[link=http://www.timo-schreiter.de/imdb/all_top250_titles.php]
+
+[link=http://www.imdb.com/list/edit?start=883&list_id=sbXIgqyYZNI]883[/link]",
+      "pubDate": "Sun, 04 Sep 2011 21:00:44 GMT",
+      "lastBuildDate": "Sat, 17 Oct 2015 01:24:17 GMT",
+      "item": [
+        {
+          "pubDate": "Sat, 17 Oct 2015 01:20:56 GMT",
+          "title": "The Martian (2015)",
+          "link": "http://www.imdb.com/title/tt3659388/",
+          "guid": "http://www.imdb.com/title/tt3659388/",
+          "description": "First appeared: 2015-10-05"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 03:47:19 GMT",
+          "title": "Udaan (2010)",
+          "link": "http://www.imdb.com/title/tt1639426/",
+          "guid": "http://www.imdb.com/title/tt1639426/",
+          "description": "First appeared: 2015-09-27"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 03:33:48 GMT",
+          "title": "Chak de! India (2007)",
+          "link": "http://www.imdb.com/title/tt0871510/",
+          "guid": "http://www.imdb.com/title/tt0871510/",
+          "description": "First appeared: 2015-07-24"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 03:30:44 GMT",
+          "title": "What Ever Happened to Baby Jane? (1962)",
+          "link": "http://www.imdb.com/title/tt0056687/",
+          "guid": "http://www.imdb.com/title/tt0056687/",
+          "description": "First appeared: 2015-07-04"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 03:28:31 GMT",
+          "title": "Inside Out (2015)",
+          "link": "http://www.imdb.com/title/tt2096673/",
+          "guid": "http://www.imdb.com/title/tt2096673/",
+          "description": "First appeared: 2015-06-28"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:58:01 GMT",
+          "title": "Mad Max: Fury Road (2015)",
+          "link": "http://www.imdb.com/title/tt1392190/",
+          "guid": "http://www.imdb.com/title/tt1392190/",
+          "description": "First appeared: 2015-05-17"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:53:46 GMT",
+          "title": "Wild Tales (2014)",
+          "link": "http://www.imdb.com/title/tt3011894/",
+          "guid": "http://www.imdb.com/title/tt3011894/",
+          "description": "First appeared: 2015-05-01"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:51:35 GMT",
+          "title": "Avengers: Age of Ultron (2015)",
+          "link": "http://www.imdb.com/title/tt2395427/",
+          "guid": "http://www.imdb.com/title/tt2395427/",
+          "description": "First appeared: 2015-04-25"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:49:37 GMT",
+          "title": "CM101MMXI Fundamentals (2013 Documentary)",
+          "link": "http://www.imdb.com/title/tt2592910/",
+          "guid": "http://www.imdb.com/title/tt2592910/",
+          "description": "First appeared: 2015-04-21"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:33:28 GMT",
+          "title": "Kingsman: The Secret Service (2014)",
+          "link": "http://www.imdb.com/title/tt2802144/",
+          "guid": "http://www.imdb.com/title/tt2802144/",
+          "description": "First appeared: 2015-02-17"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:31:56 GMT",
+          "title": "Munna Bhai M.B.B.S. (2003)",
+          "link": "http://www.imdb.com/title/tt0374887/",
+          "guid": "http://www.imdb.com/title/tt0374887/",
+          "description": "First appeared: 2015-02-16"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:27:49 GMT",
+          "title": "A Wednesday (2008)",
+          "link": "http://www.imdb.com/title/tt1280558/",
+          "guid": "http://www.imdb.com/title/tt1280558/",
+          "description": "First appeared: 2015-02-08"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:25:54 GMT",
+          "title": "PK (2014)",
+          "link": "http://www.imdb.com/title/tt2338151/",
+          "guid": "http://www.imdb.com/title/tt2338151/",
+          "description": "First appeared: 2015-02-05"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:20:34 GMT",
+          "title": "Whiplash (2014)",
+          "link": "http://www.imdb.com/title/tt2582802/",
+          "guid": "http://www.imdb.com/title/tt2582802/",
+          "description": "First appeared: 2015-01-13"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:18:56 GMT",
+          "title": "The Imitation Game (2014)",
+          "link": "http://www.imdb.com/title/tt2084970/",
+          "guid": "http://www.imdb.com/title/tt2084970/",
+          "description": "First appeared: 2015-01-08"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:17:32 GMT",
+          "title": "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+          "link": "http://www.imdb.com/title/tt2562232/",
+          "guid": "http://www.imdb.com/title/tt2562232/",
+          "description": "First appeared: 2015-01-08"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 02:03:52 GMT",
+          "title": "Paris, Texas (1984)",
+          "link": "http://www.imdb.com/title/tt0087884/",
+          "guid": "http://www.imdb.com/title/tt0087884/",
+          "description": "First appeared: 2014-12-09"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:57:40 GMT",
+          "title": "Nightcrawler (2014)",
+          "link": "http://www.imdb.com/title/tt2872718/",
+          "guid": "http://www.imdb.com/title/tt2872718/",
+          "description": "First appeared: 2014-11-30"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:53:22 GMT",
+          "title": "Interstellar (2014)",
+          "link": "http://www.imdb.com/title/tt0816692/",
+          "guid": "http://www.imdb.com/title/tt0816692/",
+          "description": "First appeared: 2014-11-08"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:44:16 GMT",
+          "title": "Gone Girl (2014)",
+          "link": "http://www.imdb.com/title/tt2267998/",
+          "guid": "http://www.imdb.com/title/tt2267998/",
+          "description": "First appeared: 2014-10-07"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:37:27 GMT",
+          "title": "Dil Chahta Hai (2001)",
+          "link": "http://www.imdb.com/title/tt0292490/",
+          "guid": "http://www.imdb.com/title/tt0292490/",
+          "description": "First appeared: 2014-09-11"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:34:12 GMT",
+          "title": "Boyhood (2014)",
+          "link": "http://www.imdb.com/title/tt1065073/",
+          "guid": "http://www.imdb.com/title/tt1065073/",
+          "description": "First appeared: 2014-09-05"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:20:15 GMT",
+          "title": "Guardians of the Galaxy (2014)",
+          "link": "http://www.imdb.com/title/tt2015381/",
+          "guid": "http://www.imdb.com/title/tt2015381/",
+          "description": "First appeared: 2014-08-03"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:14:40 GMT",
+          "title": "Dawn of the Planet of the Apes (2014)",
+          "link": "http://www.imdb.com/title/tt2103281/",
+          "guid": "http://www.imdb.com/title/tt2103281/",
+          "description": "First appeared: 2014-07-17"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:11:07 GMT",
+          "title": "The Raid 2 (2014)",
+          "link": "http://www.imdb.com/title/tt2265171/",
+          "guid": "http://www.imdb.com/title/tt2265171/",
+          "description": "First appeared: 2014-07-01"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:09:26 GMT",
+          "title": "How to Train Your Dragon 2 (2014)",
+          "link": "http://www.imdb.com/title/tt1646971/",
+          "guid": "http://www.imdb.com/title/tt1646971/",
+          "description": "First appeared: 2014-06-29"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 01:00:15 GMT",
+          "title": "X-Men: Days of Future Past (2014)",
+          "link": "http://www.imdb.com/title/tt1877832/",
+          "guid": "http://www.imdb.com/title/tt1877832/",
+          "description": "First appeared: 2014-05-24"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 00:48:07 GMT",
+          "title": "Captain America: The Winter Soldier (2014)",
+          "link": "http://www.imdb.com/title/tt1843866/",
+          "guid": "http://www.imdb.com/title/tt1843866/",
+          "description": "First appeared: 2014-04-05"
+        },
+        {
+          "pubDate": "Sun, 04 Oct 2015 00:46:52 GMT",
+          "title": "The Grand Budapest Hotel (2014)",
+          "link": "http://www.imdb.com/title/tt2278388/",
+          "guid": "http://www.imdb.com/title/tt2278388/",
+          "description": "First appeared: 2014-04-01"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:18:34 GMT",
+          "title": "Swades (2004)",
+          "link": "http://www.imdb.com/title/tt0367110/",
+          "guid": "http://www.imdb.com/title/tt0367110/",
+          "description": "First appeared: 2014-02-25"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:17:56 GMT",
+          "title": "The Lego Movie (2014)",
+          "link": "http://www.imdb.com/title/tt1490017/",
+          "guid": "http://www.imdb.com/title/tt1490017/",
+          "description": "First appeared: 2014-02-20"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:17:00 GMT",
+          "title": "Her (2013)",
+          "link": "http://www.imdb.com/title/tt1798709/",
+          "guid": "http://www.imdb.com/title/tt1798709/",
+          "description": "First appeared: 2014-01-20"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:16:11 GMT",
+          "title": "12 Years a Slave (2013)",
+          "link": "http://www.imdb.com/title/tt2024544/",
+          "guid": "http://www.imdb.com/title/tt2024544/",
+          "description": "First appeared: 2014-01-06"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:15:33 GMT",
+          "title": "The Wolf of Wall Street (2013)",
+          "link": "http://www.imdb.com/title/tt0993846/",
+          "guid": "http://www.imdb.com/title/tt0993846/",
+          "description": "First appeared: 2014-01-04"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:14:40 GMT",
+          "title": "Lagaan: Once Upon a Time in India (2001)",
+          "link": "http://www.imdb.com/title/tt0169102/",
+          "guid": "http://www.imdb.com/title/tt0169102/",
+          "description": "First appeared: 2013-12-16"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:13:59 GMT",
+          "title": "The Hobbit: The Desolation of Smaug (2013)",
+          "link": "http://www.imdb.com/title/tt1170358/",
+          "guid": "http://www.imdb.com/title/tt1170358/",
+          "description": "First appeared: 2013-12-14"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:13:08 GMT",
+          "title": "Departures (2008)",
+          "link": "http://www.imdb.com/title/tt1069238/",
+          "guid": "http://www.imdb.com/title/tt1069238/",
+          "description": "First appeared: 2013-12-09"
+        },
+        {
+          "pubDate": "Sat, 01 Mar 2014 10:12:40 GMT",
+          "title": "The Hunger Games: Catching Fire (2013)",
+          "link": "http://www.imdb.com/title/tt1951264/",
+          "guid": "http://www.imdb.com/title/tt1951264/",
+          "description": "First appeared: 2013-11-25"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:56:22 GMT",
+          "title": "Prisoners (2013)",
+          "link": "http://www.imdb.com/title/tt1392214/",
+          "guid": "http://www.imdb.com/title/tt1392214/",
+          "description": "First appeared: 2013-10-26"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:55:31 GMT",
+          "title": "Before Midnight (2013)",
+          "link": "http://www.imdb.com/title/tt2209418/",
+          "guid": "http://www.imdb.com/title/tt2209418/",
+          "description": "First appeared: 2013-10-22"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:54:47 GMT",
+          "title": "Gravity (2013)",
+          "link": "http://www.imdb.com/title/tt1454468/",
+          "guid": "http://www.imdb.com/title/tt1454468/",
+          "description": "First appeared: 2013-10-08"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:53:55 GMT",
+          "title": "Senna (2010 Documentary)",
+          "link": "http://www.imdb.com/title/tt1424432/",
+          "guid": "http://www.imdb.com/title/tt1424432/",
+          "description": "First appeared: 2013-10-08"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:53:05 GMT",
+          "title": "The Cove (2009 Documentary)",
+          "link": "http://www.imdb.com/title/tt1313104/",
+          "guid": "http://www.imdb.com/title/tt1313104/",
+          "description": "First appeared: 2013-10-08"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:51:58 GMT",
+          "title": "The King of Kong: A Fistful of Quarters (2007 Documentary)",
+          "link": "http://www.imdb.com/title/tt0923752/",
+          "guid": "http://www.imdb.com/title/tt0923752/",
+          "description": "First appeared: 2013-10-08"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:51:13 GMT",
+          "title": "Inside Job (2010 Documentary)",
+          "link": "http://www.imdb.com/title/tt1645089/",
+          "guid": "http://www.imdb.com/title/tt1645089/",
+          "description": "First appeared: 2013-10-08"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:50:09 GMT",
+          "title": "Rush (2013)",
+          "link": "http://www.imdb.com/title/tt1979320/",
+          "guid": "http://www.imdb.com/title/tt1979320/",
+          "description": "First appeared: 2013-10-07"
+        },
+        {
+          "pubDate": "Mon, 28 Oct 2013 03:49:03 GMT",
+          "title": "Hachi: A Dog's Tale (2009)",
+          "link": "http://www.imdb.com/title/tt1028532/",
+          "guid": "http://www.imdb.com/title/tt1028532/",
+          "description": "First appeared: 2013-09-11"
+        },
+        {
+          "pubDate": "Tue, 30 Jul 2013 05:55:40 GMT",
+          "title": "The Hunt (2012)",
+          "link": "http://www.imdb.com/title/tt2106476/",
+          "guid": "http://www.imdb.com/title/tt2106476/",
+          "description": "First appeared: 2013-07-15"
+        },
+        {
+          "pubDate": "Fri, 17 May 2013 19:55:41 GMT",
+          "title": "Star Trek Into Darkness (2013)",
+          "link": "http://www.imdb.com/title/tt1408101/",
+          "guid": "http://www.imdb.com/title/tt1408101/",
+          "description": "First appeared: 2013-05-18"
+        },
+        {
+          "pubDate": "Mon, 28 Jan 2013 18:13:54 GMT",
+          "title": "The Help (2011)",
+          "link": "http://www.imdb.com/title/tt1454029/",
+          "guid": "http://www.imdb.com/title/tt1454029/",
+          "description": "&quot;<a href=\"/title/tt1454029/\">The Help</a> first appeared on the IMDb Top 250 on Tue 29-Jan-2013 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 247. It attained its highest rank on Tue 19-Feb-2013 with a rank of 246. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1454029/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1454029/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Mon, 14 Jan 2013 17:38:41 GMT",
+          "title": "Silver Linings Playbook (2012)",
+          "link": "http://www.imdb.com/title/tt1045658/",
+          "guid": "http://www.imdb.com/title/tt1045658/",
+          "description": "&quot;<a href=\"/title/tt1045658/\">Silver Linings Playbook</a> first appeared on the IMDb Top 250 on Mon 14-Jan-2013 with a rank of 229 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 30-Jan-2013 with a rank of 249. It attained its highest rank on Thu 17-Jan-2013 with a rank of 219. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1045658/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1045658/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 13 Jan 2013 16:13:37 GMT",
+          "title": "Django Unchained (2012)",
+          "link": "http://www.imdb.com/title/tt1853728/",
+          "guid": "http://www.imdb.com/title/tt1853728/",
+          "description": "&quot;<a href=\"/title/tt1853728/\">Django Unchained</a> first appeared on the IMDb Top 250 on Thu 03-Jan-2013 with a rank of 62 and a rating of 8.4. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 41. It attained its highest rank on Mon 21-Jan-2013 with a rank of 37. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1853728/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1853728/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Mon, 31 Dec 2012 15:12:03 GMT",
+          "title": "Incendies (2010)",
+          "link": "http://www.imdb.com/title/tt1255953/",
+          "guid": "http://www.imdb.com/title/tt1255953/",
+          "description": "&quot;<a href=\"/title/tt1255953/\">Incendies</a> first appeared on the IMDb Top 250 on Tue 01-Jan-2013 with a rank of 226 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 231. It attained its highest rank on Tue 01-Jan-2013 with a rank of 226. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1255953/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1255953/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sat, 22 Dec 2012 14:38:09 GMT",
+          "title": "The Perks of Being a Wallflower (2012)",
+          "link": "http://www.imdb.com/title/tt1659337/",
+          "guid": "http://www.imdb.com/title/tt1659337/",
+          "description": "&quot;<a href=\"/title/tt1659337/\">The Perks of Being a Wallflower</a> first appeared on the IMDb Top 250 on Sun 23-Dec-2012 with a rank of 211 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 218. It attained its highest rank on Tue 29-Jan-2013 with a rank of 209. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1659337/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1659337/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 16 Dec 2012 16:38:35 GMT",
+          "title": "Life of Pi (2012)",
+          "link": "http://www.imdb.com/title/tt0454876/",
+          "guid": "http://www.imdb.com/title/tt0454876/",
+          "description": "&quot;<a href=\"/title/tt0454876/\">Life of Pi</a> first appeared on the IMDb Top 250 on Mon 17-Dec-2012 with a rank of 242 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 187. It attained its highest rank on Sun 20-Jan-2013 with a rank of 178. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0454876/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0454876/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 16 Dec 2012 16:38:22 GMT",
+          "title": "The Hobbit: An Unexpected Journey (2012)",
+          "link": "http://www.imdb.com/title/tt0903624/",
+          "guid": "http://www.imdb.com/title/tt0903624/",
+          "description": "&quot;<a href=\"/title/tt0903624/\">The Hobbit: An Unexpected Journey</a> first appeared on the IMDb Top 250 on Sat 15-Dec-2012 with a rank of 102 and a rating of 8.3. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 157. It attained its highest rank on Tue 18-Dec-2012 with a rank of 83. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0903624/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0903624/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Mon, 12 Nov 2012 19:32:31 GMT",
+          "title": "Argo (2012)",
+          "link": "http://www.imdb.com/title/tt1024648/",
+          "guid": "http://www.imdb.com/title/tt1024648/",
+          "description": "&quot;<a href=\"/title/tt1024648/\">Argo</a> first appeared on the IMDb Top 250 on Mon 12-Nov-2012 with a rank of 168 and a rating of 8.1. It last appeared on the IMDb Top 250 on Tue 12-Feb-2013 with a rank of 250. It attained its highest rank on Mon 12-Nov-2012 with a rank of 168. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1024648/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1024648/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 04 Nov 2012 10:48:54 GMT",
+          "title": "Skyfall (2012)",
+          "link": "http://www.imdb.com/title/tt1074638/",
+          "guid": "http://www.imdb.com/title/tt1074638/",
+          "description": "&quot;<a href=\"/title/tt1074638/\">Skyfall</a> first appeared on the IMDb Top 250 on Wed 31-Oct-2012 with a rank of 234 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 05-Dec-2012 with a rank of 248. It attained its highest rank on Tue 13-Nov-2012 with a rank of 217. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1074638/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1074638/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Wed, 31 Oct 2012 04:11:45 GMT",
+          "title": "Jurassic Park (1993)",
+          "link": "http://www.imdb.com/title/tt0107290/",
+          "guid": "http://www.imdb.com/title/tt0107290/",
+          "description": "&quot;<a href=\"/title/tt0107290/\">Jurassic Park</a> first appeared on the IMDb Top 250 on Tue 09-Oct-2012 with a rank of 248 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 20-Feb-2013 with a rank of 242. It attained its highest rank on Thu 14-Feb-2013 with a rank of 241. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0107290/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0107290/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 07 Oct 2012 19:55:17 GMT",
+          "title": "Looper (2012)",
+          "link": "http://www.imdb.com/title/tt1276104/",
+          "guid": "http://www.imdb.com/title/tt1276104/",
+          "description": "&quot;<a href=\"/title/tt1276104/\">Looper</a> first appeared on the IMDb Top 250 on Sun 07-Oct-2012 with a rank of 209 and a rating of 8. It last appeared on the IMDb Top 250 on Thu 18-Oct-2012 with a rank of 248. It attained its highest rank on Sun 07-Oct-2012 with a rank of 209. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1276104/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1276104/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 22 Jul 2012 17:52:19 GMT",
+          "title": "The Dark Knight Rises (2012)",
+          "link": "http://www.imdb.com/title/tt1345836/",
+          "guid": "http://www.imdb.com/title/tt1345836/",
+          "description": "&quot;<a href=\"/title/tt1345836/\">The Dark Knight Rises</a> first appeared on the IMDb Top 250 on Sun 22-Jul-2012 with a rank of 18 and a rating of 8.7. It last appeared on the IMDb Top 250 on Mon 12-Nov-2012 with a rank of 29. It attained its highest rank on Wed 25-Jul-2012 with a rank of 9. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1345836/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1345836/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 22 Jul 2012 17:52:06 GMT",
+          "title": "A Fistful of Dollars (1964)",
+          "link": "http://www.imdb.com/title/tt0058461/",
+          "guid": "http://www.imdb.com/title/tt0058461/",
+          "description": "&quot;<a href=\"/title/tt0058461/\">Per un pugno di dollari</a> first appeared on the IMDb Top 250 on Fri 20-Jul-2012 with a rank of 219 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 12-Nov-2012 with a rank of 220. It attained its highest rank on Mon 05-Nov-2012 with a rank of 215. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0058461/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0058461/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Mon, 16 Jul 2012 16:06:23 GMT",
+          "title": "Gangs of Wasseypur (2012)",
+          "link": "http://www.imdb.com/title/tt1954470/",
+          "guid": "http://www.imdb.com/title/tt1954470/",
+          "description": "&quot;<a href=\"/title/tt1954470/\">Gangs of Wasseypur</a> first appeared on the IMDb Top 250 on Tue 17-Jul-2012 with a rank of 245 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 17-Jul-2012 with a rank of 245. It attained its highest rank on Tue 17-Jul-2012 with a rank of 245. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1954470/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1954470/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 28 Jun 2012 20:18:18 GMT",
+          "title": "Moonrise Kingdom (2012)",
+          "link": "http://www.imdb.com/title/tt1748122/",
+          "guid": "http://www.imdb.com/title/tt1748122/",
+          "description": "&quot;<a href=\"/title/tt1748122/\">Moonrise Kingdom</a> first appeared on the IMDb Top 250 on Thu 28-Jun-2012 with a rank of 243 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 29-Jun-2012 with a rank of 237. It attained its highest rank on Fri 29-Jun-2012 with a rank of 237. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1748122/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1748122/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Tue, 12 Jun 2012 13:27:03 GMT",
+          "title": "Memories of Murder (2003)",
+          "link": "http://www.imdb.com/title/tt0353969/",
+          "guid": "http://www.imdb.com/title/tt0353969/",
+          "description": "&quot;<a href=\"/title/tt0353969/\">Salinui chueok</a> first appeared on the IMDb Top 250 on Mon 04-Jun-2012 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 06-Jun-2012 with a rank of 250. It attained its highest rank on Mon 04-Jun-2012 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0353969/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0353969/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 27 Apr 2012 20:29:28 GMT",
+          "title": "The Avengers (2012)",
+          "link": "http://www.imdb.com/title/tt0848228/",
+          "guid": "http://www.imdb.com/title/tt0848228/",
+          "description": "&quot;<a href=\"/title/tt0848228/\">The Avengers</a> first appeared on the IMDb Top 250 on Sat 21-Apr-2012 with a rank of 223 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 11-Jun-2012 with a rank of 41. It attained its highest rank on Tue 08-May-2012 with a rank of 25. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0848228/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0848228/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 08 Apr 2012 18:59:45 GMT",
+          "title": "Kahaani (2012)",
+          "link": "http://www.imdb.com/title/tt1821480/",
+          "guid": "http://www.imdb.com/title/tt1821480/",
+          "description": "&quot;<a href=\"/title/tt1821480/\">Kahaani</a> first appeared on the IMDb Top 250 on Sun 08-Apr-2012 with a rank of 246 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 09-Apr-2012 with a rank of 244. It attained its highest rank on Mon 09-Apr-2012 with a rank of 244. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1821480/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1821480/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sat, 03 Mar 2012 12:27:30 GMT",
+          "title": "The Intouchables (2011)",
+          "link": "http://www.imdb.com/title/tt1675434/",
+          "guid": "http://www.imdb.com/title/tt1675434/",
+          "description": "&quot;<a href=\"/title/tt1675434/\">Intouchables</a> first appeared on the IMDb Top 250 on Fri 02-Mar-2012 with a rank of 247 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 27-Apr-2012 with a rank of 113. It attained its highest rank on Wed 25-Apr-2012 with a rank of 113. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1675434/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1675434/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Wed, 11 Jan 2012 17:07:25 GMT",
+          "title": "The Artist (2011)",
+          "link": "http://www.imdb.com/title/tt1655442/",
+          "guid": "http://www.imdb.com/title/tt1655442/",
+          "description": "&quot;<a href=\"/title/tt1655442/\">The Artist</a> first appeared on the IMDb Top 250 on Tue 10-Jan-2012 with a rank of 238 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 27-Apr-2012 with a rank of 136. It attained its highest rank on Sat 25-Feb-2012 with a rank of 116. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1655442/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1655442/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 01 Jan 2012 19:48:30 GMT",
+          "title": "The Girl with the Dragon Tattoo (2011)",
+          "link": "http://www.imdb.com/title/tt1568346/",
+          "guid": "http://www.imdb.com/title/tt1568346/",
+          "description": "&quot;<a href=\"/title/tt1568346/\">The Girl with the Dragon Tattoo</a> first appeared on the IMDb Top 250 on Sun 01-Jan-2012 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 05-Mar-2012 with a rank of 249. It attained its highest rank on Mon 16-Jan-2012 with a rank of 187. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1568346/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1568346/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 11 Dec 2011 21:58:19 GMT",
+          "title": "Hugo (2011)",
+          "link": "http://www.imdb.com/title/tt0970179/",
+          "guid": "http://www.imdb.com/title/tt0970179/",
+          "description": "&quot;<a href=\"/title/tt0970179/\">Hugo</a> first appeared on the IMDb Top 250 on Mon 05-Dec-2011 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 11-Dec-2011 with a rank of 204. It attained its highest rank on Sun 11-Dec-2011 with a rank of 204. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0970179/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0970179/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sun, 04 Dec 2011 21:11:48 GMT",
+          "title": "Warrior (2011)",
+          "link": "http://www.imdb.com/title/tt1291584/",
+          "guid": "http://www.imdb.com/title/tt1291584/",
+          "description": "&quot;<a href=\"/title/tt1291584/\">Warrior</a> first appeared on the IMDb Top 250 on Fri 02-Dec-2011 with a rank of 239 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 04-Dec-2011 with a rank of 220. It attained its highest rank on Sun 04-Dec-2011 with a rank of 220. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1291584/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1291584/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Sat, 24 Sep 2011 09:08:09 GMT",
+          "title": "Drive (2011)",
+          "link": "http://www.imdb.com/title/tt0780504/",
+          "guid": "http://www.imdb.com/title/tt0780504/",
+          "description": "&quot;<a href=\"/title/tt0780504/\">Drive</a> first appeared on the IMDb Top 250 on Mon 19-Sep-2011 with a rank of 164 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 23-Sep-2011 with a rank of 111. It attained its highest rank on Fri 23-Sep-2011 with a rank of 111. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0780504/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0780504/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:36:48 GMT",
+          "title": "Elite Squad: The Enemy Within (2010)",
+          "link": "http://www.imdb.com/title/tt1555149/",
+          "guid": "http://www.imdb.com/title/tt1555149/",
+          "description": "&quot;<a href=\"/title/tt1555149/\">Tropa de Elite 2: O Inimigo Agora &#xE9; Outro</a> first appeared on the IMDb Top 250 on Thu 18-Aug-2011 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 19-Aug-2011 with a rank of 247. It attained its highest rank on Fri 19-Aug-2011 with a rank of 247. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1555149/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1555149/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:36:29 GMT",
+          "title": "Harry Potter and the Deathly Hallows: Part 2 (2011)",
+          "link": "http://www.imdb.com/title/tt1201607/",
+          "guid": "http://www.imdb.com/title/tt1201607/",
+          "description": "&quot;<a href=\"/title/tt1201607/\">Harry Potter and the Deathly Hallows: Part 2</a> first appeared on the IMDb Top 250 on Thu 14-Jul-2011 with a rank of 207 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 132. It attained its highest rank on Sun 17-Jul-2011 with a rank of 67. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1201607/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1201607/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:36:12 GMT",
+          "title": "X-Men: First Class (2011)",
+          "link": "http://www.imdb.com/title/tt1270798/",
+          "guid": "http://www.imdb.com/title/tt1270798/",
+          "description": "&quot;<a href=\"/title/tt1270798/\">X: First Class</a> first appeared on the IMDb Top 250 on Mon 06-Jun-2011 with a rank of 230 and a rating of 8. It last appeared on the IMDb Top 250 on Sat 09-Jul-2011 with a rank of 243. It attained its highest rank on Sun 12-Jun-2011 with a rank of 210. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1270798/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1270798/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:35:48 GMT",
+          "title": "Ip Man (2008)",
+          "link": "http://www.imdb.com/title/tt1220719/",
+          "guid": "http://www.imdb.com/title/tt1220719/",
+          "description": "&quot;<a href=\"/title/tt1220719/\">Yip Man</a> first appeared on the IMDb Top 250 on Sun 08-May-2011 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 240. It attained its highest rank on Mon 25-Jul-2011 with a rank of 238. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1220719/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1220719/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:35:32 GMT",
+          "title": "A Separation (2011)",
+          "link": "http://www.imdb.com/title/tt1832382/",
+          "guid": "http://www.imdb.com/title/tt1832382/",
+          "description": "&quot;<a href=\"/title/tt1832382/\">Jodaeiye Nader az Simin</a> first appeared on the IMDb Top 250 on Sun 03-Apr-2011 with a rank of 170 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 226. It attained its highest rank on Thu 07-Apr-2011 with a rank of 83. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1832382/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1832382/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:35:17 GMT",
+          "title": "The Fighter (2010)",
+          "link": "http://www.imdb.com/title/tt0964517/",
+          "guid": "http://www.imdb.com/title/tt0964517/",
+          "description": "&quot;<a href=\"/title/tt0964517/\">The Fighter</a> first appeared on the IMDb Top 250 on Tue 11-Jan-2011 with a rank of 245 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 06-Mar-2011 with a rank of 246. It attained its highest rank on Sat 29-Jan-2011 with a rank of 211. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0964517/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0964517/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:35:01 GMT",
+          "title": "The King's Speech (2010)",
+          "link": "http://www.imdb.com/title/tt1504320/",
+          "guid": "http://www.imdb.com/title/tt1504320/",
+          "description": "&quot;<a href=\"/title/tt1504320/\">The King&#x27;s Speech</a> first appeared on the IMDb Top 250 on Mon 10-Jan-2011 with a rank of 229 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 121. It attained its highest rank on Sun 20-Feb-2011 with a rank of 94. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1504320/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1504320/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:34:43 GMT",
+          "title": "127 Hours (2010)",
+          "link": "http://www.imdb.com/title/tt1542344/",
+          "guid": "http://www.imdb.com/title/tt1542344/",
+          "description": "&quot;<a href=\"/title/tt1542344/\">127 Hours</a> first appeared on the IMDb Top 250 on Sat 08-Jan-2011 with a rank of 240 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 18-Feb-2011 with a rank of 247. It attained its highest rank on Thu 13-Jan-2011 with a rank of 210. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1542344/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1542344/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:34:20 GMT",
+          "title": "True Grit (2010)",
+          "link": "http://www.imdb.com/title/tt1403865/",
+          "guid": "http://www.imdb.com/title/tt1403865/",
+          "description": "&quot;<a href=\"/title/tt1403865/\">True Grit</a> first appeared on the IMDb Top 250 on Wed 29-Dec-2010 with a rank of 240 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 07-Mar-2011 with a rank of 248. It attained its highest rank on Wed 05-Jan-2011 with a rank of 184. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1403865/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1403865/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:34:08 GMT",
+          "title": "Black Swan (2010)",
+          "link": "http://www.imdb.com/title/tt0947798/",
+          "guid": "http://www.imdb.com/title/tt0947798/",
+          "description": "&quot;<a href=\"/title/tt0947798/\">Black Swan</a> first appeared on the IMDb Top 250 on Sun 12-Dec-2010 with a rank of 233 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 111. It attained its highest rank on Wed 29-Dec-2010 with a rank of 48. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0947798/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0947798/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:33:49 GMT",
+          "title": "Harry Potter and the Deathly Hallows: Part 1 (2010)",
+          "link": "http://www.imdb.com/title/tt0926084/",
+          "guid": "http://www.imdb.com/title/tt0926084/",
+          "description": "&quot;<a href=\"/title/tt0926084/\">Harry Potter and the Deathly Hallows: Part 1</a> first appeared on the IMDb Top 250 on Mon 22-Nov-2010 with a rank of 192 and a rating of 8. It last appeared on the IMDb Top 250 on Thu 25-Nov-2010 with a rank of 250. It attained its highest rank on Mon 22-Nov-2010 with a rank of 192. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0926084/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0926084/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:33:34 GMT",
+          "title": "Scott Pilgrim vs. the World (2010)",
+          "link": "http://www.imdb.com/title/tt0446029/",
+          "guid": "http://www.imdb.com/title/tt0446029/",
+          "description": "&quot;<a href=\"/title/tt0446029/\">Scott Pilgrim vs. the World</a> first appeared on the IMDb Top 250 on Thu 28-Oct-2010 with a rank of 247 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 31-Oct-2010 with a rank of 242. It attained its highest rank on Sat 30-Oct-2010 with a rank of 233. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0446029/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0446029/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:33:18 GMT",
+          "title": "The Social Network (2010)",
+          "link": "http://www.imdb.com/title/tt1285016/",
+          "guid": "http://www.imdb.com/title/tt1285016/",
+          "description": "&quot;<a href=\"/title/tt1285016/\">The Social Network</a> first appeared on the IMDb Top 250 on Mon 04-Oct-2010 with a rank of 201 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 213. It attained its highest rank on Sat 30-Oct-2010 with a rank of 111. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1285016/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1285016/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:33:03 GMT",
+          "title": "Mary and Max (2009)",
+          "link": "http://www.imdb.com/title/tt0978762/",
+          "guid": "http://www.imdb.com/title/tt0978762/",
+          "description": "&quot;<a href=\"/title/tt0978762/\">Mary and Max</a> first appeared on the IMDb Top 250 on Tue 10-Aug-2010 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 195. It attained its highest rank on Wed 31-Aug-2011 with a rank of 194. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0978762/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0978762/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:32:47 GMT",
+          "title": "Inception (2010)",
+          "link": "http://www.imdb.com/title/tt1375666/",
+          "guid": "http://www.imdb.com/title/tt1375666/",
+          "description": "&quot;<a href=\"/title/tt1375666/\">Inception</a> first appeared on the IMDb Top 250 on Thu 15-Jul-2010 with a rank of 68 and a rating of 8.4. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 10. It attained its highest rank on Sun 18-Jul-2010 with a rank of 3. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1375666/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1375666/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:32:30 GMT",
+          "title": "Toy Story 3 (2010)",
+          "link": "http://www.imdb.com/title/tt0435761/",
+          "guid": "http://www.imdb.com/title/tt0435761/",
+          "description": "&quot;<a href=\"/title/tt0435761/\">Toy Story 3</a> first appeared on the IMDb Top 250 on Sun 20-Jun-2010 with a rank of 34 and a rating of 8.6. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 37. It attained its highest rank on Fri 25-Jun-2010 with a rank of 6. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0435761/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0435761/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:32:12 GMT",
+          "title": "Kick-Ass (2010)",
+          "link": "http://www.imdb.com/title/tt1250777/",
+          "guid": "http://www.imdb.com/title/tt1250777/",
+          "description": "&quot;<a href=\"/title/tt1250777/\">Kick-Ass</a> first appeared on the IMDb Top 250 on Sat 17-Apr-2010 with a rank of 211 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 17-Jan-2011 with a rank of 249. It attained its highest rank on Sun 25-Apr-2010 with a rank of 121. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1250777/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1250777/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:31:56 GMT",
+          "title": "How to Train Your Dragon (2010)",
+          "link": "http://www.imdb.com/title/tt0892769/",
+          "guid": "http://www.imdb.com/title/tt0892769/",
+          "description": "&quot;<a href=\"/title/tt0892769/\">How to Train Your Dragon</a> first appeared on the IMDb Top 250 on Thu 15-Apr-2010 with a rank of 246 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 181. It attained its highest rank on Thu 17-Jun-2010 with a rank of 169. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0892769/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0892769/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:31:39 GMT",
+          "title": "The Secret in Their Eyes (2009)",
+          "link": "http://www.imdb.com/title/tt1305806/",
+          "guid": "http://www.imdb.com/title/tt1305806/",
+          "description": "&quot;<a href=\"/title/tt1305806/\">El secreto de sus ojos</a> first appeared on the IMDb Top 250 on Tue 13-Apr-2010 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 161. It attained its highest rank on Wed 13-Jul-2011 with a rank of 160. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1305806/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1305806/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:31:23 GMT",
+          "title": "Shutter Island (2010)",
+          "link": "http://www.imdb.com/title/tt1130884/",
+          "guid": "http://www.imdb.com/title/tt1130884/",
+          "description": "&quot;<a href=\"/title/tt1130884/\">Shutter Island</a> first appeared on the IMDb Top 250 on Mon 22-Feb-2010 with a rank of 229 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 239. It attained its highest rank on Thu 25-Feb-2010 with a rank of 191. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1130884/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1130884/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:31:08 GMT",
+          "title": "Edward Scissorhands (1990)",
+          "link": "http://www.imdb.com/title/tt0099487/",
+          "guid": "http://www.imdb.com/title/tt0099487/",
+          "description": "&quot;<a href=\"/title/tt0099487/\">Edward Scissorhands</a> first appeared on the IMDb Top 250 on Thu 18-Feb-2010 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Tue 26-Oct-2010 with a rank of 250. It attained its highest rank on Thu 01-Apr-2010 with a rank of 248. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0099487/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0099487/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:30:51 GMT",
+          "title": "Up in the Air (2009)",
+          "link": "http://www.imdb.com/title/tt1193138/",
+          "guid": "http://www.imdb.com/title/tt1193138/",
+          "description": "&quot;<a href=\"/title/tt1193138/\">Up in the Air</a> first appeared on the IMDb Top 250 on Wed 13-Jan-2010 with a rank of 248 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 13-Jan-2010 with a rank of 248. It attained its highest rank on Wed 13-Jan-2010 with a rank of 248. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1193138/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1193138/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:30:33 GMT",
+          "title": "3 Idiots (2009)",
+          "link": "http://www.imdb.com/title/tt1187043/",
+          "guid": "http://www.imdb.com/title/tt1187043/",
+          "description": "&quot;<a href=\"/title/tt1187043/\">3 Idiots</a> first appeared on the IMDb Top 250 on Mon 11-Jan-2010 with a rank of 216 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 11-Jan-2010 with a rank of 216. It attained its highest rank on Mon 11-Jan-2010 with a rank of 216. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1187043/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1187043/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:30:17 GMT",
+          "title": "Avatar (2009)",
+          "link": "http://www.imdb.com/title/tt0499549/",
+          "guid": "http://www.imdb.com/title/tt0499549/",
+          "description": "&quot;<a href=\"/title/tt0499549/\">Avatar</a> first appeared on the IMDb Top 250 on Fri 18-Dec-2009 with a rank of 168 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 189. It attained its highest rank on Mon 21-Dec-2009 with a rank of 21. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0499549/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0499549/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:30:01 GMT",
+          "title": "The Breath (2009)",
+          "link": "http://www.imdb.com/title/tt1171701/",
+          "guid": "http://www.imdb.com/title/tt1171701/",
+          "description": "&quot;<a href=\"/title/tt1171701/\">Nefes: Vatan Sagolsun</a> first appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 228 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 18-Nov-2009 with a rank of 227. It attained its highest rank on Mon 09-Nov-2009 with a rank of 180. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1171701/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1171701/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:29:34 GMT",
+          "title": "Zombieland (2009)",
+          "link": "http://www.imdb.com/title/tt1156398/",
+          "guid": "http://www.imdb.com/title/tt1156398/",
+          "description": "&quot;<a href=\"/title/tt1156398/\">Zombieland</a> first appeared on the IMDb Top 250 on Sun 04-Oct-2009 with a rank of 230 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 15-Nov-2009 with a rank of 248. It attained its highest rank on Wed 07-Oct-2009 with a rank of 115. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1156398/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1156398/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:29:07 GMT",
+          "title": "Saban, Son of Saban (1977)",
+          "link": "http://www.imdb.com/title/tt0253614/",
+          "guid": "http://www.imdb.com/title/tt0253614/",
+          "description": "&quot;<a href=\"/title/tt0253614/\">Saban Oglu Saban</a> first appeared on the IMDb Top 250 on Wed 23-Sep-2009 with a rank of 153 and a rating of 8.2. It last appeared on the IMDb Top 250 on Fri 09-Oct-2009 with a rank of 236. It attained its highest rank on Fri 25-Sep-2009 with a rank of 131. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0253614/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0253614/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:28:45 GMT",
+          "title": "The Imaginarium of Doctor Parnassus (2009)",
+          "link": "http://www.imdb.com/title/tt1054606/",
+          "guid": "http://www.imdb.com/title/tt1054606/",
+          "description": "&quot;<a href=\"/title/tt1054606/\">The Imaginarium of Doctor Parnassus</a> first appeared on the IMDb Top 250 on Fri 04-Sep-2009 with a rank of 159 and a rating of 8.1. It last appeared on the IMDb Top 250 on Mon 07-Sep-2009 with a rank of 185. It attained its highest rank on Sat 05-Sep-2009 with a rank of 158. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1054606/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1054606/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:28:29 GMT",
+          "title": "Inglourious Basterds (2009)",
+          "link": "http://www.imdb.com/title/tt0361748/",
+          "guid": "http://www.imdb.com/title/tt0361748/",
+          "description": "&quot;<a href=\"/title/tt0361748/\">Inglourious Basterds</a> first appeared on the IMDb Top 250 on Fri 21-Aug-2009 with a rank of 192 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 95. It attained its highest rank on Tue 25-Aug-2009 with a rank of 35. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0361748/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0361748/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:28:11 GMT",
+          "title": "District 9 (2009)",
+          "link": "http://www.imdb.com/title/tt1136608/",
+          "guid": "http://www.imdb.com/title/tt1136608/",
+          "description": "&quot;<a href=\"/title/tt1136608/\">District 9</a> first appeared on the IMDb Top 250 on Sat 15-Aug-2009 with a rank of 78 and a rating of 8.4. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 160. It attained its highest rank on Mon 17-Aug-2009 with a rank of 26. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1136608/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1136608/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:27:49 GMT",
+          "title": "Moon (2009)",
+          "link": "http://www.imdb.com/title/tt1182345/",
+          "guid": "http://www.imdb.com/title/tt1182345/",
+          "description": "&quot;<a href=\"/title/tt1182345/\">Moon</a> first appeared on the IMDb Top 250 on Sun 09-Aug-2009 with a rank of 244 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 07-Sep-2009 with a rank of 229. It attained its highest rank on Wed 02-Sep-2009 with a rank of 229. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1182345/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1182345/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:27:33 GMT",
+          "title": "Andaz Apna Apna (1994)",
+          "link": "http://www.imdb.com/title/tt0109117/",
+          "guid": "http://www.imdb.com/title/tt0109117/",
+          "description": "&quot;<a href=\"/title/tt0109117/\">Andaz Apna Apna</a> first appeared on the IMDb Top 250 on Tue 04-Aug-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 05-Aug-2009 with a rank of 249. It attained its highest rank on Tue 04-Aug-2009 with a rank of 249. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0109117/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0109117/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:27:12 GMT",
+          "title": "(500) Days of Summer (2009)",
+          "link": "http://www.imdb.com/title/tt1022603/",
+          "guid": "http://www.imdb.com/title/tt1022603/",
+          "description": "&quot;<a href=\"/title/tt1022603/\">(500) Days of Summer</a> first appeared on the IMDb Top 250 on Sat 01-Aug-2009 with a rank of 231 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 02-Apr-2010 with a rank of 249. It attained its highest rank on Sat 22-Aug-2009 with a rank of 104. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1022603/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1022603/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:26:56 GMT",
+          "title": "Harry Potter and the Half-Blood Prince (2009)",
+          "link": "http://www.imdb.com/title/tt0417741/",
+          "guid": "http://www.imdb.com/title/tt0417741/",
+          "description": "&quot;<a href=\"/title/tt0417741/\">Harry Potter and the Half-Blood Prince</a> first appeared on the IMDb Top 250 on Fri 17-Jul-2009 with a rank of 221 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 17-Jul-2009 with a rank of 221. It attained its highest rank on Fri 17-Jul-2009 with a rank of 221. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0417741/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0417741/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:26:38 GMT",
+          "title": "Public Enemies (2009)",
+          "link": "http://www.imdb.com/title/tt1152836/",
+          "guid": "http://www.imdb.com/title/tt1152836/",
+          "description": "&quot;<a href=\"/title/tt1152836/\">Public Enemies</a> first appeared on the IMDb Top 250 on Fri 26-Jun-2009 with a rank of 190 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 03-Jul-2009 with a rank of 215. It attained its highest rank on Wed 01-Jul-2009 with a rank of 142. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1152836/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1152836/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:26:22 GMT",
+          "title": "The Hangover (2009)",
+          "link": "http://www.imdb.com/title/tt1119646/",
+          "guid": "http://www.imdb.com/title/tt1119646/",
+          "description": "&quot;<a href=\"/title/tt1119646/\">The Hangover</a> first appeared on the IMDb Top 250 on Mon 08-Jun-2009 with a rank of 168 and a rating of 8.1. It last appeared on the IMDb Top 250 on Thu 12-Nov-2009 with a rank of 250. It attained its highest rank on Wed 10-Jun-2009 with a rank of 126. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1119646/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1119646/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:26:05 GMT",
+          "title": "The Red Shoes (1948)",
+          "link": "http://www.imdb.com/title/tt0040725/",
+          "guid": "http://www.imdb.com/title/tt0040725/",
+          "description": "&quot;<a href=\"/title/tt0040725/\">The Red Shoes</a> first appeared on the IMDb Top 250 on Sat 06-Jun-2009 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 07-Oct-2009 with a rank of 247. It attained its highest rank on Thu 10-Sep-2009 with a rank of 241. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0040725/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0040725/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:25:47 GMT",
+          "title": "Up (2009)",
+          "link": "http://www.imdb.com/title/tt1049413/",
+          "guid": "http://www.imdb.com/title/tt1049413/",
+          "description": "&quot;<a href=\"/title/tt1049413/\">Up</a> first appeared on the IMDb Top 250 on Sat 30-May-2009 with a rank of 151 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 101. It attained its highest rank on Wed 03-Jun-2009 with a rank of 11. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1049413/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1049413/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:25:30 GMT",
+          "title": "Star Trek (2009)",
+          "link": "http://www.imdb.com/title/tt0796366/",
+          "guid": "http://www.imdb.com/title/tt0796366/",
+          "description": "&quot;<a href=\"/title/tt0796366/\">Star Trek</a> first appeared on the IMDb Top 250 on Fri 08-May-2009 with a rank of 228 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 199. It attained its highest rank on Tue 12-May-2009 with a rank of 58. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0796366/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0796366/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:25:05 GMT",
+          "title": "The Big Parade (1925)",
+          "link": "http://www.imdb.com/title/tt0015624/",
+          "guid": "http://www.imdb.com/title/tt0015624/",
+          "description": "&quot;<a href=\"/title/tt0015624/\">The Big Parade</a> first appeared on the IMDb Top 250 on Sun 19-Apr-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 07-Sep-2009 with a rank of 240. It attained its highest rank on Tue 01-Sep-2009 with a rank of 240. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0015624/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0015624/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:24:43 GMT",
+          "title": "Mr. Muhsin (1987)",
+          "link": "http://www.imdb.com/title/tt0184756/",
+          "guid": "http://www.imdb.com/title/tt0184756/",
+          "description": "&quot;<a href=\"/title/tt0184756/\">Muhsin Bey</a> first appeared on the IMDb Top 250 on Mon 13-Apr-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 13-Apr-2009 with a rank of 249. It attained its highest rank on Mon 13-Apr-2009 with a rank of 249. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0184756/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0184756/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:24:18 GMT",
+          "title": "My Man Godfrey (1936)",
+          "link": "http://www.imdb.com/title/tt0028010/",
+          "guid": "http://www.imdb.com/title/tt0028010/",
+          "description": "&quot;<a href=\"/title/tt0028010/\">My Man Godfrey</a> first appeared on the IMDb Top 250 on Sat 04-Apr-2009 with a rank of 247 and a rating of 8. It last appeared on the IMDb Top 250 on Sat 03-Oct-2009 with a rank of 245. It attained its highest rank on Wed 15-Jul-2009 with a rank of 237. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0028010/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0028010/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:24:00 GMT",
+          "title": "Dev D (2009)",
+          "link": "http://www.imdb.com/title/tt1327035/",
+          "guid": "http://www.imdb.com/title/tt1327035/",
+          "description": "&quot;<a href=\"/title/tt1327035/\">Dev.D</a> first appeared on the IMDb Top 250 on Fri 06-Mar-2009 with a rank of 246 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 06-Mar-2009 with a rank of 246. It attained its highest rank on Fri 06-Mar-2009 with a rank of 246. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1327035/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1327035/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:23:41 GMT",
+          "title": "Watchmen (2009)",
+          "link": "http://www.imdb.com/title/tt0409459/",
+          "guid": "http://www.imdb.com/title/tt0409459/",
+          "description": "&quot;<a href=\"/title/tt0409459/\">Watchmen</a> first appeared on the IMDb Top 250 on Fri 06-Mar-2009 with a rank of 216 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 22-Mar-2009 with a rank of 243. It attained its highest rank on Sun 08-Mar-2009 with a rank of 132. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0409459/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0409459/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:23:18 GMT",
+          "title": "The Foster Brothers (1976)",
+          "link": "http://www.imdb.com/title/tt0253779/",
+          "guid": "http://www.imdb.com/title/tt0253779/",
+          "description": "&quot;<a href=\"/title/tt0253779/\">S&#xFC;t Kardesler</a> first appeared on the IMDb Top 250 on Sat 14-Feb-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Thu 24-Sep-2009 with a rank of 227. It attained its highest rank on Thu 24-Sep-2009 with a rank of 227. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0253779/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0253779/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:22:56 GMT",
+          "title": "Waltz with Bashir (2008 Documentary)",
+          "link": "http://www.imdb.com/title/tt1185616/",
+          "guid": "http://www.imdb.com/title/tt1185616/",
+          "description": "&quot;<a href=\"/title/tt1185616/\">Vals Im Bashir</a> first appeared on the IMDb Top 250 on Sat 14-Feb-2009 with a rank of 248 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 12-Apr-2009 with a rank of 248. It attained its highest rank on Tue 24-Feb-2009 with a rank of 240. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1185616/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1185616/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:22:32 GMT",
+          "title": "Coraline (2009)",
+          "link": "http://www.imdb.com/title/tt0327597/",
+          "guid": "http://www.imdb.com/title/tt0327597/",
+          "description": "&quot;<a href=\"/title/tt0327597/\">Coraline</a> first appeared on the IMDb Top 250 on Thu 12-Feb-2009 with a rank of 247 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 11-Mar-2009 with a rank of 244. It attained its highest rank on Fri 20-Feb-2009 with a rank of 178. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0327597/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0327597/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:22:16 GMT",
+          "title": "The Message (1976)",
+          "link": "http://www.imdb.com/title/tt0074896/",
+          "guid": "http://www.imdb.com/title/tt0074896/",
+          "description": "&quot;<a href=\"/title/tt0074896/\">The Message</a> first appeared on the IMDb Top 250 on Wed 04-Feb-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 06-Feb-2009 with a rank of 249. It attained its highest rank on Wed 04-Feb-2009 with a rank of 249. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0074896/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0074896/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:22:01 GMT",
+          "title": "Changeling (2008)",
+          "link": "http://www.imdb.com/title/tt0824747/",
+          "guid": "http://www.imdb.com/title/tt0824747/",
+          "description": "&quot;<a href=\"/title/tt0824747/\">Changeling</a> first appeared on the IMDb Top 250 on Tue 03-Feb-2009 with a rank of 248 and a rating of 8. It last appeared on the IMDb Top 250 on Wed 22-Sep-2010 with a rank of 250. It attained its highest rank on Wed 06-May-2009 with a rank of 216. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0824747/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0824747/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:21:45 GMT",
+          "title": "The Chaos Class Is Waking Up (1976)",
+          "link": "http://www.imdb.com/title/tt0252490/",
+          "guid": "http://www.imdb.com/title/tt0252490/",
+          "description": "&quot;<a href=\"/title/tt0252490/\">Hababam Sinifi Uyaniyor</a> first appeared on the IMDb Top 250 on Wed 28-Jan-2009 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Thu 29-Jan-2009 with a rank of 250. It attained its highest rank on Wed 28-Jan-2009 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0252490/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0252490/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:21:29 GMT",
+          "title": "Frost/Nixon (2008)",
+          "link": "http://www.imdb.com/title/tt0870111/",
+          "guid": "http://www.imdb.com/title/tt0870111/",
+          "description": "&quot;<a href=\"/title/tt0870111/\">Frost/Nixon</a> first appeared on the IMDb Top 250 on Fri 23-Jan-2009 with a rank of 249 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 31-Mar-2009 with a rank of 250. It attained its highest rank on Tue 10-Feb-2009 with a rank of 239. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0870111/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0870111/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:21:13 GMT",
+          "title": "Michael the Brave (1970)",
+          "link": "http://www.imdb.com/title/tt0066078/",
+          "guid": "http://www.imdb.com/title/tt0066078/",
+          "description": "&quot;<a href=\"/title/tt0066078/\">Mihai Viteazul</a> first appeared on the IMDb Top 250 on Tue 20-Jan-2009 with a rank of 250 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 20-Jan-2009 with a rank of 250. It attained its highest rank on Tue 20-Jan-2009 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0066078/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0066078/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:20:55 GMT",
+          "title": "Gran Torino (2008)",
+          "link": "http://www.imdb.com/title/tt1205489/",
+          "guid": "http://www.imdb.com/title/tt1205489/",
+          "description": "&quot;<a href=\"/title/tt1205489/\">Gran Torino</a> first appeared on the IMDb Top 250 on Mon 29-Dec-2008 with a rank of 226 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 98. It attained its highest rank on Thu 23-Apr-2009 with a rank of 76. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1205489/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1205489/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:20:38 GMT",
+          "title": "The Curious Case of Benjamin Button (2008)",
+          "link": "http://www.imdb.com/title/tt0421715/",
+          "guid": "http://www.imdb.com/title/tt0421715/",
+          "description": "&quot;<a href=\"/title/tt0421715/\">The Curious Case of Benjamin Button</a> first appeared on the IMDb Top 250 on Sat 27-Dec-2008 with a rank of 129 and a rating of 8.2. It last appeared on the IMDb Top 250 on Wed 18-Aug-2010 with a rank of 250. It attained its highest rank on Sun 04-Jan-2009 with a rank of 60. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0421715/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0421715/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:20:21 GMT",
+          "title": "Milk (2008)",
+          "link": "http://www.imdb.com/title/tt1013753/",
+          "guid": "http://www.imdb.com/title/tt1013753/",
+          "description": "&quot;<a href=\"/title/tt1013753/\">Milk</a> first appeared on the IMDb Top 250 on Tue 16-Dec-2008 with a rank of 238 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 03-Feb-2009 with a rank of 233. It attained its highest rank on Thu 01-Jan-2009 with a rank of 170. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1013753/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1013753/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:20:01 GMT",
+          "title": "The Wrestler (2008)",
+          "link": "http://www.imdb.com/title/tt1125849/",
+          "guid": "http://www.imdb.com/title/tt1125849/",
+          "description": "&quot;<a href=\"/title/tt1125849/\">The Wrestler</a> first appeared on the IMDb Top 250 on Tue 16-Dec-2008 with a rank of 235 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 182. It attained its highest rank on Tue 27-Jan-2009 with a rank of 47. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1125849/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1125849/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:19:39 GMT",
+          "title": "Slumdog Millionaire (2008)",
+          "link": "http://www.imdb.com/title/tt1010048/",
+          "guid": "http://www.imdb.com/title/tt1010048/",
+          "description": "&quot;<a href=\"/title/tt1010048/\">Slumdog Millionaire</a> first appeared on the IMDb Top 250 on Sun 07-Dec-2008 with a rank of 237 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 137. It attained its highest rank on Wed 14-Jan-2009 with a rank of 34. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1010048/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1010048/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:19:08 GMT",
+          "title": "Let the Right One In (2008)",
+          "link": "http://www.imdb.com/title/tt1139797/",
+          "guid": "http://www.imdb.com/title/tt1139797/",
+          "description": "&quot;<a href=\"/title/tt1139797/\">L&#xE5;t den r&#xE4;tte komma in</a> first appeared on the IMDb Top 250 on Wed 19-Nov-2008 with a rank of 235 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 220. It attained its highest rank on Fri 28-Nov-2008 with a rank of 184. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1139797/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1139797/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:18:49 GMT",
+          "title": "Nausicaä of the Valley of the Wind (1984)",
+          "link": "http://www.imdb.com/title/tt0087544/",
+          "guid": "http://www.imdb.com/title/tt0087544/",
+          "description": "&quot;<a href=\"/title/tt0087544/\">Kaze no tani no Naushika</a> first appeared on the IMDb Top 250 on Mon 06-Oct-2008 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 250. It attained its highest rank on Wed 09-Mar-2011 with a rank of 244. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0087544/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0087544/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:18:32 GMT",
+          "title": "Rang De Basanti (2006)",
+          "link": "http://www.imdb.com/title/tt0405508/",
+          "guid": "http://www.imdb.com/title/tt0405508/",
+          "description": "&quot;<a href=\"/title/tt0405508/\">Rang De Basanti</a> first appeared on the IMDb Top 250 on Fri 26-Sep-2008 with a rank of 249 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 26-Sep-2008 with a rank of 249. It attained its highest rank on Fri 26-Sep-2008 with a rank of 249. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0405508/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0405508/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:17:56 GMT",
+          "title": "The Girl with the Red Scarf (1977)",
+          "link": "http://www.imdb.com/title/tt0263975/",
+          "guid": "http://www.imdb.com/title/tt0263975/",
+          "description": "&quot;<a href=\"/title/tt0263975/\">Selvi Boylum Al Yazmalim</a> first appeared on the IMDb Top 250 on Wed 03-Sep-2008 with a rank of 226 and a rating of 8. It last appeared on the IMDb Top 250 on Thu 04-Sep-2008 with a rank of 224. It attained its highest rank on Thu 04-Sep-2008 with a rank of 224. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0263975/full\">here</a><br/><br/><a href=\"http://www.imdb.com/lists/tt0263975/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:17:22 GMT",
+          "title": "The Chaos Class Failed the Class (1975)",
+          "link": "http://www.imdb.com/title/tt0252488/",
+          "guid": "http://www.imdb.com/title/tt0252488/",
+          "description": "&quot;<a href=\"/title/tt0252488/\">Hababam Sinifi Sinifta Kaldi</a> first appeared on the IMDb Top 250 on Thu 21-Aug-2008 with a rank of 247 and a rating of 7.9. It last appeared on the IMDb Top 250 on Thu 21-Aug-2008 with a rank of 247. It attained its highest rank on Thu 21-Aug-2008 with a rank of 247. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0252488/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0252488/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:17:05 GMT",
+          "title": "The Dark Knight (2008)",
+          "link": "http://www.imdb.com/title/tt0468569/",
+          "guid": "http://www.imdb.com/title/tt0468569/",
+          "description": "&quot;<a href=\"/title/tt0468569/\">The Dark Knight</a> first appeared on the IMDb Top 250 on Wed 16-Jul-2008 with a rank of 4 and a rating of 9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 9. It attained its highest rank on Fri 18-Jul-2008 with a rank of 1. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0468569/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0468569/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:16:48 GMT",
+          "title": "Rocky (1976)",
+          "link": "http://www.imdb.com/title/tt0075148/",
+          "guid": "http://www.imdb.com/title/tt0075148/",
+          "description": "&quot;<a href=\"/title/tt0075148/\">Rocky</a> first appeared on the IMDb Top 250 on Sun 29-Jun-2008 with a rank of 240 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 214. It attained its highest rank on Thu 09-Sep-2010 with a rank of 204. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0075148/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0075148/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:16:29 GMT",
+          "title": "WALL·E (2008)",
+          "link": "http://www.imdb.com/title/tt0910970/",
+          "guid": "http://www.imdb.com/title/tt0910970/",
+          "description": "&quot;<a href=\"/title/tt0910970/\">WALL&#xB7;E</a> first appeared on the IMDb Top 250 on Fri 27-Jun-2008 with a rank of 110 and a rating of 8.2. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 52. It attained its highest rank on Sun 29-Jun-2008 with a rank of 6. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0910970/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0910970/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:16:02 GMT",
+          "title": "Safety Last! (1923)",
+          "link": "http://www.imdb.com/title/tt0014429/",
+          "guid": "http://www.imdb.com/title/tt0014429/",
+          "description": "&quot;<a href=\"/title/tt0014429/\">Safety Last!</a> first appeared on the IMDb Top 250 on Tue 24-Jun-2008 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 218. It attained its highest rank on Tue 08-Sep-2009 with a rank of 207. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0014429/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0014429/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:15:45 GMT",
+          "title": "Ace in the Hole (1951)",
+          "link": "http://www.imdb.com/title/tt0043338/",
+          "guid": "http://www.imdb.com/title/tt0043338/",
+          "description": "&quot;<a href=\"/title/tt0043338/\">Ace in the Hole</a> first appeared on the IMDb Top 250 on Mon 26-May-2008 with a rank of 247 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sat 31-Jan-2009 with a rank of 249. It attained its highest rank on Thu 19-Jun-2008 with a rank of 228. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0043338/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0043338/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:15:28 GMT",
+          "title": "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
+          "link": "http://www.imdb.com/title/tt0367882/",
+          "guid": "http://www.imdb.com/title/tt0367882/",
+          "description": "&quot;<a href=\"/title/tt0367882/\">Indiana Jones and the Kingdom of the Crystal Skull</a> first appeared on the IMDb Top 250 on Tue 20-May-2008 with a rank of 165 and a rating of 8.1. It last appeared on the IMDb Top 250 on Wed 21-May-2008 with a rank of 175. It attained its highest rank on Tue 20-May-2008 with a rank of 165. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0367882/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0367882/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:15:13 GMT",
+          "title": "Iron Man (2008)",
+          "link": "http://www.imdb.com/title/tt0371746/",
+          "guid": "http://www.imdb.com/title/tt0371746/",
+          "description": "&quot;<a href=\"/title/tt0371746/\">Iron Man</a> first appeared on the IMDb Top 250 on Fri 02-May-2008 with a rank of 159 and a rating of 8.1. It last appeared on the IMDb Top 250 on Fri 28-Nov-2008 with a rank of 249. It attained its highest rank on Mon 05-May-2008 with a rank of 99. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0371746/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0371746/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:14:57 GMT",
+          "title": "Scenes from a Marriage (1973 Mini-Series)",
+          "link": "http://www.imdb.com/title/tt0070644/",
+          "guid": "http://www.imdb.com/title/tt0070644/",
+          "description": "&quot;<a href=\"/title/tt0070644/\">Scener ur ett &#xE4;ktenskap</a> first appeared on the IMDb Top 250 on Mon 28-Apr-2008 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Mon 28-Apr-2008 with a rank of 250. It attained its highest rank on Mon 28-Apr-2008 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0070644/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0070644/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:14:34 GMT",
+          "title": "Forgetting Sarah Marshall (2008)",
+          "link": "http://www.imdb.com/title/tt0800039/",
+          "guid": "http://www.imdb.com/title/tt0800039/",
+          "description": "&quot;<a href=\"/title/tt0800039/\">Forgetting Sarah Marshall</a> first appeared on the IMDb Top 250 on Sun 20-Apr-2008 with a rank of 222 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 22-Apr-2008 with a rank of 232. It attained its highest rank on Mon 21-Apr-2008 with a rank of 186. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0800039/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0800039/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:14:18 GMT",
+          "title": "In Bruges (2008)",
+          "link": "http://www.imdb.com/title/tt0780536/",
+          "guid": "http://www.imdb.com/title/tt0780536/",
+          "description": "&quot;<a href=\"/title/tt0780536/\">In Bruges</a> first appeared on the IMDb Top 250 on Wed 26-Mar-2008 with a rank of 249 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 216. It attained its highest rank on Sat 31-Oct-2009 with a rank of 183. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0780536/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0780536/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:14:00 GMT",
+          "title": "The Kid (1921)",
+          "link": "http://www.imdb.com/title/tt0012349/",
+          "guid": "http://www.imdb.com/title/tt0012349/",
+          "description": "&quot;<a href=\"/title/tt0012349/\">The Kid</a> first appeared on the IMDb Top 250 on Thu 20-Mar-2008 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 156. It attained its highest rank on Sat 03-Sep-2011 with a rank of 156. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0012349/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0012349/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:13:47 GMT",
+          "title": "Persepolis (2007)",
+          "link": "http://www.imdb.com/title/tt0808417/",
+          "guid": "http://www.imdb.com/title/tt0808417/",
+          "description": "&quot;<a href=\"/title/tt0808417/\">Persepolis</a> first appeared on the IMDb Top 250 on Thu 21-Feb-2008 with a rank of 246 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sat 01-Mar-2008 with a rank of 246. It attained its highest rank on Fri 22-Feb-2008 with a rank of 244. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0808417/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0808417/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:13:31 GMT",
+          "title": "The Diving Bell and the Butterfly (2007)",
+          "link": "http://www.imdb.com/title/tt0401383/",
+          "guid": "http://www.imdb.com/title/tt0401383/",
+          "description": "&quot;<a href=\"/title/tt0401383/\">Le scaphandre et le papillon</a> first appeared on the IMDb Top 250 on Sun 10-Feb-2008 with a rank of 240 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 202. It attained its highest rank on Sat 13-Dec-2008 with a rank of 190. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0401383/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0401383/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:13:15 GMT",
+          "title": "Rambo (2008)",
+          "link": "http://www.imdb.com/title/tt0462499/",
+          "guid": "http://www.imdb.com/title/tt0462499/",
+          "description": "&quot;<a href=\"/title/tt0462499/\">Rambo</a> first appeared on the IMDb Top 250 on Sun 27-Jan-2008 with a rank of 195 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 28-Jan-2008 with a rank of 188. It attained its highest rank on Mon 28-Jan-2008 with a rank of 188. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0462499/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0462499/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:12:58 GMT",
+          "title": "4 Months, 3 Weeks and 2 Days (2007)",
+          "link": "http://www.imdb.com/title/tt1032846/",
+          "guid": "http://www.imdb.com/title/tt1032846/",
+          "description": "&quot;<a href=\"/title/tt1032846/\">4 luni, 3 s&#xE3;pt&#xE3;m&#xE2;ni si 2 zile</a> first appeared on the IMDb Top 250 on Mon 14-Jan-2008 with a rank of 228 and a rating of 7.9. It last appeared on the IMDb Top 250 on Mon 14-Jan-2008 with a rank of 228. It attained its highest rank on Mon 14-Jan-2008 with a rank of 228. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1032846/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1032846/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:12:33 GMT",
+          "title": "Atonement (2007)",
+          "link": "http://www.imdb.com/title/tt0783233/",
+          "guid": "http://www.imdb.com/title/tt0783233/",
+          "description": "&quot;<a href=\"/title/tt0783233/\">Atonement</a> first appeared on the IMDb Top 250 on Mon 31-Dec-2007 with a rank of 245 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sat 12-Jan-2008 with a rank of 250. It attained its highest rank on Wed 09-Jan-2008 with a rank of 234. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0783233/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0783233/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:12:17 GMT",
+          "title": "Like Stars on Earth (2007)",
+          "link": "http://www.imdb.com/title/tt0986264/",
+          "guid": "http://www.imdb.com/title/tt0986264/",
+          "description": "&quot;<a href=\"/title/tt0986264/\">Taare Zameen Par</a> first appeared on the IMDb Top 250 on Mon 31-Dec-2007 with a rank of 143 and a rating of 8.1. It last appeared on the IMDb Top 250 on Sat 05-Jan-2008 with a rank of 165. It attained its highest rank on Thu 03-Jan-2008 with a rank of 117. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0986264/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0986264/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:12:01 GMT",
+          "title": "There Will Be Blood (2007)",
+          "link": "http://www.imdb.com/title/tt0469494/",
+          "guid": "http://www.imdb.com/title/tt0469494/",
+          "description": "&quot;<a href=\"/title/tt0469494/\">There Will Be Blood</a> first appeared on the IMDb Top 250 on Mon 24-Dec-2007 with a rank of 228 and a rating of 8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 153. It attained its highest rank on Fri 01-Feb-2008 with a rank of 14. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0469494/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0469494/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:11:39 GMT",
+          "title": "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+          "link": "http://www.imdb.com/title/tt0408236/",
+          "guid": "http://www.imdb.com/title/tt0408236/",
+          "description": "&quot;<a href=\"/title/tt0408236/\">Sweeney Todd: The Demon Barber of Fleet Street</a> first appeared on the IMDb Top 250 on Sun 23-Dec-2007 with a rank of 136 and a rating of 8.1. It last appeared on the IMDb Top 250 on Sun 24-Feb-2008 with a rank of 243. It attained its highest rank on Mon 24-Dec-2007 with a rank of 115. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0408236/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0408236/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:11:21 GMT",
+          "title": "Juno (2007)",
+          "link": "http://www.imdb.com/title/tt0467406/",
+          "guid": "http://www.imdb.com/title/tt0467406/",
+          "description": "&quot;<a href=\"/title/tt0467406/\">Juno</a> first appeared on the IMDb Top 250 on Mon 17-Dec-2007 with a rank of 222 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 25-Jul-2008 with a rank of 249. It attained its highest rank on Wed 16-Jan-2008 with a rank of 112. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0467406/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0467406/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:11:06 GMT",
+          "title": "Sansho the Bailiff (1954)",
+          "link": "http://www.imdb.com/title/tt0047445/",
+          "guid": "http://www.imdb.com/title/tt0047445/",
+          "description": "&quot;<a href=\"/title/tt0047445/\">Sansh&#xF4; day&#xFB;</a> first appeared on the IMDb Top 250 on Sun 16-Dec-2007 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Mon 17-Dec-2007 with a rank of 250. It attained its highest rank on Sun 16-Dec-2007 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0047445/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0047445/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:10:49 GMT",
+          "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+          "link": "http://www.imdb.com/title/tt0443680/",
+          "guid": "http://www.imdb.com/title/tt0443680/",
+          "description": "&quot;<a href=\"/title/tt0443680/\">The Assassination of Jesse James by the Coward Robert Ford</a> first appeared on the IMDb Top 250 on Mon 26-Nov-2007 with a rank of 246 and a rating of 7.9. It last appeared on the IMDb Top 250 on Tue 27-Nov-2007 with a rank of 243. It attained its highest rank on Tue 27-Nov-2007 with a rank of 243. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0443680/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0443680/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:10:32 GMT",
+          "title": "No Country for Old Men (2007)",
+          "link": "http://www.imdb.com/title/tt0477348/",
+          "guid": "http://www.imdb.com/title/tt0477348/",
+          "description": "&quot;<a href=\"/title/tt0477348/\">No Country for Old Men</a> first appeared on the IMDb Top 250 on Fri 09-Nov-2007 with a rank of 235 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 127. It attained its highest rank on Sat 22-Dec-2007 with a rank of 14. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0477348/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0477348/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:10:11 GMT",
+          "title": "Gone Baby Gone (2007)",
+          "link": "http://www.imdb.com/title/tt0452623/",
+          "guid": "http://www.imdb.com/title/tt0452623/",
+          "description": "&quot;<a href=\"/title/tt0452623/\">Gone Baby Gone</a> first appeared on the IMDb Top 250 on Tue 30-Oct-2007 with a rank of 244 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 31-Oct-2007 with a rank of 239. It attained its highest rank on Wed 31-Oct-2007 with a rank of 239. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0452623/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0452623/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:09:52 GMT",
+          "title": "American Gangster (2007)",
+          "link": "http://www.imdb.com/title/tt0765429/",
+          "guid": "http://www.imdb.com/title/tt0765429/",
+          "description": "&quot;<a href=\"/title/tt0765429/\">American Gangster</a> first appeared on the IMDb Top 250 on Thu 25-Oct-2007 with a rank of 206 and a rating of 8. It last appeared on the IMDb Top 250 on Sat 06-Sep-2008 with a rank of 249. It attained its highest rank on Tue 06-Nov-2007 with a rank of 94. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0765429/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0765429/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:09:31 GMT",
+          "title": "Into the Wild (2007)",
+          "link": "http://www.imdb.com/title/tt0758758/",
+          "guid": "http://www.imdb.com/title/tt0758758/",
+          "description": "&quot;<a href=\"/title/tt0758758/\">Into the Wild</a> first appeared on the IMDb Top 250 on Sun 21-Oct-2007 with a rank of 244 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 146. It attained its highest rank on Sat 10-May-2008 with a rank of 124. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0758758/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0758758/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:09:07 GMT",
+          "title": "Elite Squad (2007)",
+          "link": "http://www.imdb.com/title/tt0861739/",
+          "guid": "http://www.imdb.com/title/tt0861739/",
+          "description": "&quot;<a href=\"/title/tt0861739/\">Tropa de Elite</a> first appeared on the IMDb Top 250 on Thu 18-Oct-2007 with a rank of 170 and a rating of 8. It last appeared on the IMDb Top 250 on Mon 31-Mar-2008 with a rank of 245. It attained its highest rank on Fri 19-Oct-2007 with a rank of 151. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0861739/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0861739/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:08:48 GMT",
+          "title": "Planet Terror (2007)",
+          "link": "http://www.imdb.com/title/tt1077258/",
+          "guid": "http://www.imdb.com/title/tt1077258/",
+          "description": "&quot;<a href=\"/title/tt1077258/\">Planet Terror</a> first appeared on the IMDb Top 250 on Sat 29-Sep-2007 with a rank of 244 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sat 29-Sep-2007 with a rank of 244. It attained its highest rank on Sat 29-Sep-2007 with a rank of 244. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?1077258/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt1077258/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:08:33 GMT",
+          "title": "Eastern Promises (2007)",
+          "link": "http://www.imdb.com/title/tt0765443/",
+          "guid": "http://www.imdb.com/title/tt0765443/",
+          "description": "&quot;<a href=\"/title/tt0765443/\">Eastern Promises</a> first appeared on the IMDb Top 250 on Thu 27-Sep-2007 with a rank of 243 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 28-Sep-2007 with a rank of 235. It attained its highest rank on Fri 28-Sep-2007 with a rank of 235. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0765443/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0765443/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:08:09 GMT",
+          "title": "The Bandit (1996)",
+          "link": "http://www.imdb.com/title/tt0116231/",
+          "guid": "http://www.imdb.com/title/tt0116231/",
+          "description": "&quot;<a href=\"/title/tt0116231/\">Eskiya</a> first appeared on the IMDb Top 250 on Sat 15-Sep-2007 with a rank of 249 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 25-Feb-2009 with a rank of 249. It attained its highest rank on Mon 30-Jun-2008 with a rank of 235. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0116231/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0116231/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:07:53 GMT",
+          "title": "3:10 to Yuma (2007)",
+          "link": "http://www.imdb.com/title/tt0381849/",
+          "guid": "http://www.imdb.com/title/tt0381849/",
+          "description": "&quot;<a href=\"/title/tt0381849/\">3:10 to Yuma</a> first appeared on the IMDb Top 250 on Sat 08-Sep-2007 with a rank of 150 and a rating of 8.1. It last appeared on the IMDb Top 250 on Tue 01-Jul-2008 with a rank of 240. It attained its highest rank on Sun 09-Sep-2007 with a rank of 112. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0381849/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0381849/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:07:36 GMT",
+          "title": "Le Samouraï (1967)",
+          "link": "http://www.imdb.com/title/tt0062229/",
+          "guid": "http://www.imdb.com/title/tt0062229/",
+          "description": "&quot;<a href=\"/title/tt0062229/\">Le samoura&#xEF;</a> first appeared on the IMDb Top 250 on Thu 30-Aug-2007 with a rank of 247 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 10-Oct-2008 with a rank of 247. It attained its highest rank on Fri 29-Aug-2008 with a rank of 238. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0062229/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0062229/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Fri, 09 Sep 2011 20:07:23 GMT",
+          "title": "Stardust (2007)",
+          "link": "http://www.imdb.com/title/tt0486655/",
+          "guid": "http://www.imdb.com/title/tt0486655/",
+          "description": "&quot;<a href=\"/title/tt0486655/\">Stardust</a> first appeared on the IMDb Top 250 on Sun 19-Aug-2007 with a rank of 235 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 21-Nov-2007 with a rank of 247. It attained its highest rank on Mon 20-Aug-2007 with a rank of 221. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0486655/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0486655/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:11:27 GMT",
+          "title": "Superbad (2007)",
+          "link": "http://www.imdb.com/title/tt0829482/",
+          "guid": "http://www.imdb.com/title/tt0829482/",
+          "description": "&quot;<a href=\"/title/tt0829482/\">Superbad</a> first appeared on the IMDb Top 250 on Sat 18-Aug-2007 with a rank of 78 and a rating of 8.3. It last appeared on the IMDb Top 250 on Tue 20-Nov-2007 with a rank of 244. It attained its highest rank on Sun 19-Aug-2007 with a rank of 49. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0829482/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0829482/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:11:10 GMT",
+          "title": "Rope (1948)",
+          "link": "http://www.imdb.com/title/tt0040746/",
+          "guid": "http://www.imdb.com/title/tt0040746/",
+          "description": "&quot;<a href=\"/title/tt0040746/\">Rope</a> first appeared on the IMDb Top 250 on Wed 08-Aug-2007 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 234. It attained its highest rank on Mon 29-Dec-2008 with a rank of 209. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0040746/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0040746/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:10:51 GMT",
+          "title": "The Young and the Damned (1950)",
+          "link": "http://www.imdb.com/title/tt0042804/",
+          "guid": "http://www.imdb.com/title/tt0042804/",
+          "description": "&quot;<a href=\"/title/tt0042804/\">Los olvidados</a> first appeared on the IMDb Top 250 on Tue 07-Aug-2007 with a rank of 250 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 07-Mar-2008 with a rank of 250. It attained its highest rank on Fri 10-Aug-2007 with a rank of 239. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0042804/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0042804/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:10:34 GMT",
+          "title": "Once (2007)",
+          "link": "http://www.imdb.com/title/tt0907657/",
+          "guid": "http://www.imdb.com/title/tt0907657/",
+          "description": "&quot;<a href=\"/title/tt0907657/\">Once</a> first appeared on the IMDb Top 250 on Sat 04-Aug-2007 with a rank of 244 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 03-Sep-2008 with a rank of 250. It attained its highest rank on Mon 07-Apr-2008 with a rank of 216. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0907657/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0907657/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:10:17 GMT",
+          "title": "The Bourne Ultimatum (2007)",
+          "link": "http://www.imdb.com/title/tt0440963/",
+          "guid": "http://www.imdb.com/title/tt0440963/",
+          "description": "&quot;<a href=\"/title/tt0440963/\">The Bourne Ultimatum</a> first appeared on the IMDb Top 250 on Sat 04-Aug-2007 with a rank of 94 and a rating of 8.2. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 177. It attained its highest rank on Mon 13-Aug-2007 with a rank of 54. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0440963/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0440963/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:10:01 GMT",
+          "title": "Rescue Dawn (2006)",
+          "link": "http://www.imdb.com/title/tt0462504/",
+          "guid": "http://www.imdb.com/title/tt0462504/",
+          "description": "&quot;<a href=\"/title/tt0462504/\">Rescue Dawn</a> first appeared on the IMDb Top 250 on Wed 01-Aug-2007 with a rank of 247 and a rating of 7.9. It last appeared on the IMDb Top 250 on Thu 02-Aug-2007 with a rank of 237. It attained its highest rank on Thu 02-Aug-2007 with a rank of 237. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0462504/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0462504/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:09:45 GMT",
+          "title": "My Name Is Bruce (2007)",
+          "link": "http://www.imdb.com/title/tt0489235/",
+          "guid": "http://www.imdb.com/title/tt0489235/",
+          "description": "&quot;<a href=\"/title/tt0489235/\">My Name Is Bruce</a> first appeared on the IMDb Top 250 on Tue 24-Jul-2007 with a rank of 165 and a rating of 8. It last appeared on the IMDb Top 250 on Sun 23-Dec-2007 with a rank of 158. It attained its highest rank on Sat 22-Dec-2007 with a rank of 157. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0489235/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0489235/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:09:29 GMT",
+          "title": "The Simpsons Movie (2007)",
+          "link": "http://www.imdb.com/title/tt0462538/",
+          "guid": "http://www.imdb.com/title/tt0462538/",
+          "description": "&quot;<a href=\"/title/tt0462538/\">The Simpsons Movie</a> first appeared on the IMDb Top 250 on Sat 21-Jul-2007 with a rank of 143 and a rating of 8.1. It last appeared on the IMDb Top 250 on Tue 21-Aug-2007 with a rank of 249. It attained its highest rank on Sat 28-Jul-2007 with a rank of 43. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0462538/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0462538/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:09:13 GMT",
+          "title": "Harry Potter and the Order of the Phoenix (2007)",
+          "link": "http://www.imdb.com/title/tt0373889/",
+          "guid": "http://www.imdb.com/title/tt0373889/",
+          "description": "&quot;<a href=\"/title/tt0373889/\">Harry Potter and the Order of the Phoenix</a> first appeared on the IMDb Top 250 on Thu 12-Jul-2007 with a rank of 247 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 13-Jul-2007 with a rank of 249. It attained its highest rank on Thu 12-Jul-2007 with a rank of 247. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0373889/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0373889/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:08:57 GMT",
+          "title": "Transformers (2007)",
+          "link": "http://www.imdb.com/title/tt0418279/",
+          "guid": "http://www.imdb.com/title/tt0418279/",
+          "description": "&quot;<a href=\"/title/tt0418279/\">Transformers</a> first appeared on the IMDb Top 250 on Tue 03-Jul-2007 with a rank of 223 and a rating of 7.9. It last appeared on the IMDb Top 250 on Thu 05-Jul-2007 with a rank of 224. It attained its highest rank on Wed 04-Jul-2007 with a rank of 203. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0418279/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0418279/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:08:37 GMT",
+          "title": "Ratatouille (2007)",
+          "link": "http://www.imdb.com/title/tt0382932/",
+          "guid": "http://www.imdb.com/title/tt0382932/",
+          "description": "&quot;<a href=\"/title/tt0382932/\">Ratatouille</a> first appeared on the IMDb Top 250 on Sat 30-Jun-2007 with a rank of 110 and a rating of 8.2. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 190. It attained its highest rank on Wed 04-Jul-2007 with a rank of 32. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0382932/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0382932/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:08:21 GMT",
+          "title": "Live Free or Die Hard (2007)",
+          "link": "http://www.imdb.com/title/tt0337978/",
+          "guid": "http://www.imdb.com/title/tt0337978/",
+          "description": "&quot;<a href=\"/title/tt0337978/\">Live Free or Die Hard</a> first appeared on the IMDb Top 250 on Thu 28-Jun-2007 with a rank of 204 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 04-Jul-2007 with a rank of 247. It attained its highest rank on Fri 29-Jun-2007 with a rank of 161. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0337978/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0337978/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:08:02 GMT",
+          "title": "Knocked Up (2007)",
+          "link": "http://www.imdb.com/title/tt0478311/",
+          "guid": "http://www.imdb.com/title/tt0478311/",
+          "description": "&quot;<a href=\"/title/tt0478311/\">Knocked Up</a> first appeared on the IMDb Top 250 on Sat 02-Jun-2007 with a rank of 168 and a rating of 8. It last appeared on the IMDb Top 250 on Tue 24-Jul-2007 with a rank of 250. It attained its highest rank on Mon 04-Jun-2007 with a rank of 114. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0478311/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0478311/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:07:39 GMT",
+          "title": "Blood Diamond (2006)",
+          "link": "http://www.imdb.com/title/tt0450259/",
+          "guid": "http://www.imdb.com/title/tt0450259/",
+          "description": "&quot;<a href=\"/title/tt0450259/\">Blood Diamond</a> first appeared on the IMDb Top 250 on Sun 13-May-2007 with a rank of 230 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 27-Jan-2010 with a rank of 250. It attained its highest rank on Mon 14-May-2007 with a rank of 229. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0450259/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0450259/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:07:22 GMT",
+          "title": "Lage Raho Munna Bhai (2006)",
+          "link": "http://www.imdb.com/title/tt0456144/",
+          "guid": "http://www.imdb.com/title/tt0456144/",
+          "description": "&quot;<a href=\"/title/tt0456144/\">Lage Raho Munna Bhai</a> first appeared on the IMDb Top 250 on Sun 13-May-2007 with a rank of 224 and a rating of 7.9. It last appeared on the IMDb Top 250 on Mon 14-May-2007 with a rank of 221. It attained its highest rank on Mon 14-May-2007 with a rank of 221. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0456144/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0456144/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:06:58 GMT",
+          "title": "Zodiac (2007)",
+          "link": "http://www.imdb.com/title/tt0443706/",
+          "guid": "http://www.imdb.com/title/tt0443706/",
+          "description": "&quot;<a href=\"/title/tt0443706/\">Zodiac</a> first appeared on the IMDb Top 250 on Sun 13-May-2007 with a rank of 129 and a rating of 8.1. It last appeared on the IMDb Top 250 on Thu 04-Oct-2007 with a rank of 244. It attained its highest rank on Sun 13-May-2007 with a rank of 129. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0443706/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0443706/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:06:39 GMT",
+          "title": "Philanthropy (2002)",
+          "link": "http://www.imdb.com/title/tt0314067/",
+          "guid": "http://www.imdb.com/title/tt0314067/",
+          "description": "&quot;<a href=\"/title/tt0314067/\">Filantropica</a> first appeared on the IMDb Top 250 on Thu 03-May-2007 with a rank of 243 and a rating of 7.9. It last appeared on the IMDb Top 250 on Thu 03-May-2007 with a rank of 243. It attained its highest rank on Thu 03-May-2007 with a rank of 243. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0314067/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0314067/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:06:25 GMT",
+          "title": "Hot Fuzz (2007)",
+          "link": "http://www.imdb.com/title/tt0425112/",
+          "guid": "http://www.imdb.com/title/tt0425112/",
+          "description": "&quot;<a href=\"/title/tt0425112/\">Hot Fuzz</a> first appeared on the IMDb Top 250 on Sun 22-Apr-2007 with a rank of 215 and a rating of 7.9. It last appeared on the IMDb Top 250 on Tue 01-Jul-2008 with a rank of 246. It attained its highest rank on Sun 13-May-2007 with a rank of 93. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0425112/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0425112/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:06:10 GMT",
+          "title": "Grindhouse (2007)",
+          "link": "http://www.imdb.com/title/tt0462322/",
+          "guid": "http://www.imdb.com/title/tt0462322/",
+          "description": "&quot;<a href=\"/title/tt0462322/\">Grindhouse</a> first appeared on the IMDb Top 250 on Sun 08-Apr-2007 with a rank of 108 and a rating of 8.2. It last appeared on the IMDb Top 250 on Mon 30-Jun-2008 with a rank of 245. It attained its highest rank on Sun 13-May-2007 with a rank of 58. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0462322/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0462322/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:05:56 GMT",
+          "title": "Solaris (1972)",
+          "link": "http://www.imdb.com/title/tt0069293/",
+          "guid": "http://www.imdb.com/title/tt0069293/",
+          "description": "&quot;<a href=\"/title/tt0069293/\">Solyaris</a> first appeared on the IMDb Top 250 on Tue 27-Feb-2007 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sun 26-Aug-2007 with a rank of 250. It attained its highest rank on Mon 11-Jun-2007 with a rank of 238. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0069293/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0069293/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:05:42 GMT",
+          "title": "300 (2006)",
+          "link": "http://www.imdb.com/title/tt0416449/",
+          "guid": "http://www.imdb.com/title/tt0416449/",
+          "description": "&quot;<a href=\"/title/tt0416449/\">300</a> first appeared on the IMDb Top 250 on Sat 24-Feb-2007 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 29-Jun-2007 with a rank of 250. It attained its highest rank on Mon 12-Mar-2007 with a rank of 156. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0416449/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0416449/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:05:28 GMT",
+          "title": "Letters from Iwo Jima (2006)",
+          "link": "http://www.imdb.com/title/tt0498380/",
+          "guid": "http://www.imdb.com/title/tt0498380/",
+          "description": "&quot;<a href=\"/title/tt0498380/\">Letters from Iwo Jima</a> first appeared on the IMDb Top 250 on Thu 22-Feb-2007 with a rank of 238 and a rating of 7.8. It last appeared on the IMDb Top 250 on Wed 31-Aug-2011 with a rank of 249. It attained its highest rank on Wed 13-Jun-2007 with a rank of 129. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0498380/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0498380/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:05:12 GMT",
+          "title": "The Lives of Others (2006)",
+          "link": "http://www.imdb.com/title/tt0405094/",
+          "guid": "http://www.imdb.com/title/tt0405094/",
+          "description": "&quot;<a href=\"/title/tt0405094/\">Das Leben der Anderen</a> first appeared on the IMDb Top 250 on Thu 25-Jan-2007 with a rank of 245 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 55. It attained its highest rank on Mon 17-Mar-2008 with a rank of 47. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0405094/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0405094/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:04:58 GMT",
+          "title": "Children of Men (2006)",
+          "link": "http://www.imdb.com/title/tt0206634/",
+          "guid": "http://www.imdb.com/title/tt0206634/",
+          "description": "&quot;<a href=\"/title/tt0206634/\">Children of Men</a> first appeared on the IMDb Top 250 on Mon 08-Jan-2007 with a rank of 222 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 233. It attained its highest rank on Sun 13-May-2007 with a rank of 116. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0206634/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0206634/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:04:43 GMT",
+          "title": "Harakiri (1962)",
+          "link": "http://www.imdb.com/title/tt0056058/",
+          "guid": "http://www.imdb.com/title/tt0056058/",
+          "description": "&quot;<a href=\"/title/tt0056058/\">Seppuku</a> first appeared on the IMDb Top 250 on Mon 01-Jan-2007 with a rank of 243 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 04-Feb-2008 with a rank of 248. It attained its highest rank on Sat 22-Dec-2007 with a rank of 211. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0056058/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0056058/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:04:27 GMT",
+          "title": "Pan's Labyrinth (2006)",
+          "link": "http://www.imdb.com/title/tt0457430/",
+          "guid": "http://www.imdb.com/title/tt0457430/",
+          "description": "&quot;<a href=\"/title/tt0457430/\">El laberinto del fauno</a> first appeared on the IMDb Top 250 on Sat 16-Dec-2006 with a rank of 240 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 85. It attained its highest rank on Sun 13-May-2007 with a rank of 41. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0457430/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0457430/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:04:11 GMT",
+          "title": "Great Expectations (1946)",
+          "link": "http://www.imdb.com/title/tt0038574/",
+          "guid": "http://www.imdb.com/title/tt0038574/",
+          "description": "&quot;<a href=\"/title/tt0038574/\">Great Expectations</a> first appeared on the IMDb Top 250 on Mon 04-Dec-2006 with a rank of 244 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 237. It attained its highest rank on Wed 16-Sep-2009 with a rank of 228. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0038574/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0038574/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:03:54 GMT",
+          "title": "The Ox-Bow Incident (1943)",
+          "link": "http://www.imdb.com/title/tt0036244/",
+          "guid": "http://www.imdb.com/title/tt0036244/",
+          "description": "&quot;<a href=\"/title/tt0036244/\">The Ox-Bow Incident</a> first appeared on the IMDb Top 250 on Fri 01-Dec-2006 with a rank of 246 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 233. It attained its highest rank on Mon 10-Nov-2008 with a rank of 182. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0036244/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0036244/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:03:37 GMT",
+          "title": "Infernal Affairs (2002)",
+          "link": "http://www.imdb.com/title/tt0338564/",
+          "guid": "http://www.imdb.com/title/tt0338564/",
+          "description": "&quot;<a href=\"/title/tt0338564/\">Mou gaan dou</a> first appeared on the IMDb Top 250 on Thu 30-Nov-2006 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 227. It attained its highest rank on Mon 11-Jun-2007 with a rank of 224. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0338564/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0338564/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:03:19 GMT",
+          "title": "Z (1969)",
+          "link": "http://www.imdb.com/title/tt0065234/",
+          "guid": "http://www.imdb.com/title/tt0065234/",
+          "description": "&quot;<a href=\"/title/tt0065234/\">Z</a> first appeared on the IMDb Top 250 on Fri 24-Nov-2006 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 06-Aug-2007 with a rank of 249. It attained its highest rank on Thu 30-Nov-2006 with a rank of 233. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0065234/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0065234/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:03:01 GMT",
+          "title": "Casino Royale (2006)",
+          "link": "http://www.imdb.com/title/tt0381061/",
+          "guid": "http://www.imdb.com/title/tt0381061/",
+          "description": "&quot;<a href=\"/title/tt0381061/\">Casino Royale</a> first appeared on the IMDb Top 250 on Wed 22-Nov-2006 with a rank of 229 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sun 31-Jan-2010 with a rank of 250. It attained its highest rank on Sun 13-May-2007 with a rank of 182. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0381061/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0381061/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:02:44 GMT",
+          "title": "In Cold Blood (1967)",
+          "link": "http://www.imdb.com/title/tt0061809/",
+          "guid": "http://www.imdb.com/title/tt0061809/",
+          "description": "&quot;<a href=\"/title/tt0061809/\">In Cold Blood</a> first appeared on the IMDb Top 250 on Fri 03-Nov-2006 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sat 29-Nov-2008 with a rank of 249. It attained its highest rank on Fri 02-Nov-2007 with a rank of 218. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0061809/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0061809/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:02:28 GMT",
+          "title": "The Prestige (2006)",
+          "link": "http://www.imdb.com/title/tt0482571/",
+          "guid": "http://www.imdb.com/title/tt0482571/",
+          "description": "&quot;<a href=\"/title/tt0482571/\">The Prestige</a> first appeared on the IMDb Top 250 on Wed 25-Oct-2006 with a rank of 246 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 71. It attained its highest rank on Mon 07-Jun-2010 with a rank of 71. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0482571/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0482571/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:02:09 GMT",
+          "title": "The Discreet Charm of the Bourgeoisie (1972)",
+          "link": "http://www.imdb.com/title/tt0068361/",
+          "guid": "http://www.imdb.com/title/tt0068361/",
+          "description": "&quot;<a href=\"/title/tt0068361/\">Le charme discret de la bourgeoisie</a> first appeared on the IMDb Top 250 on Fri 20-Oct-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sat 25-Aug-2007 with a rank of 248. It attained its highest rank on Sat 25-Aug-2007 with a rank of 248. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0068361/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0068361/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:01:53 GMT",
+          "title": "The Departed (2006)",
+          "link": "http://www.imdb.com/title/tt0407887/",
+          "guid": "http://www.imdb.com/title/tt0407887/",
+          "description": "&quot;<a href=\"/title/tt0407887/\">The Departed</a> first appeared on the IMDb Top 250 on Wed 11-Oct-2006 with a rank of 65 and a rating of 8.3. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 56. It attained its highest rank on Sun 13-May-2007 with a rank of 33. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0407887/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0407887/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:01:32 GMT",
+          "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",
+          "link": "http://www.imdb.com/title/tt0443453/",
+          "guid": "http://www.imdb.com/title/tt0443453/",
+          "description": "&quot;<a href=\"/title/tt0443453/\">Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</a> first appeared on the IMDb Top 250 on Fri 06-Oct-2006 with a rank of 247 and a rating of 7.8. It last appeared on the IMDb Top 250 on Wed 22-Nov-2006 with a rank of 238. It attained its highest rank on Wed 08-Nov-2006 with a rank of 131. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0443453/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0443453/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:01:16 GMT",
+          "title": "Sherlock Jr. (1924)",
+          "link": "http://www.imdb.com/title/tt0015324/",
+          "guid": "http://www.imdb.com/title/tt0015324/",
+          "description": "&quot;<a href=\"/title/tt0015324/\">Sherlock Jr.</a> first appeared on the IMDb Top 250 on Sun 01-Oct-2006 with a rank of 228 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 219. It attained its highest rank on Sat 18-Apr-2009 with a rank of 137. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0015324/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0015324/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:00:59 GMT",
+          "title": "Little Miss Sunshine (2006)",
+          "link": "http://www.imdb.com/title/tt0449059/",
+          "guid": "http://www.imdb.com/title/tt0449059/",
+          "description": "&quot;<a href=\"/title/tt0449059/\">Little Miss Sunshine</a> first appeared on the IMDb Top 250 on Sun 27-Aug-2006 with a rank of 244 and a rating of 7.8. It last appeared on the IMDb Top 250 on Tue 26-Oct-2010 with a rank of 247. It attained its highest rank on Wed 13-Jun-2007 with a rank of 145. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0449059/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0449059/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:00:43 GMT",
+          "title": "The Exterminating Angel (1962)",
+          "link": "http://www.imdb.com/title/tt0056732/",
+          "guid": "http://www.imdb.com/title/tt0056732/",
+          "description": "&quot;<a href=\"/title/tt0056732/\">El &#xC1;ngel Exterminador</a> first appeared on the IMDb Top 250 on Sun 20-Aug-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 11-Oct-2007 with a rank of 245. It attained its highest rank on Fri 27-Apr-2007 with a rank of 241. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0056732/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0056732/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:00:26 GMT",
+          "title": "Come and See (1985)",
+          "link": "http://www.imdb.com/title/tt0091251/",
+          "guid": "http://www.imdb.com/title/tt0091251/",
+          "description": "&quot;<a href=\"/title/tt0091251/\">Idi i smotri</a> first appeared on the IMDb Top 250 on Sun 13-Aug-2006 with a rank of 197 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 02-May-2008 with a rank of 247. It attained its highest rank on Wed 18-Oct-2006 with a rank of 177. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0091251/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0091251/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 21:00:09 GMT",
+          "title": "Umberto D. (1952)",
+          "link": "http://www.imdb.com/title/tt0045274/",
+          "guid": "http://www.imdb.com/title/tt0045274/",
+          "description": "&quot;<a href=\"/title/tt0045274/\">Umberto D.</a> first appeared on the IMDb Top 250 on Sat 15-Jul-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 197. It attained its highest rank on Thu 05-Mar-2009 with a rank of 180. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0045274/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0045274/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:59:52 GMT",
+          "title": "Rififi (1955)",
+          "link": "http://www.imdb.com/title/tt0048021/",
+          "guid": "http://www.imdb.com/title/tt0048021/",
+          "description": "&quot;<a href=\"/title/tt0048021/\">Du rififi chez les hommes</a> first appeared on the IMDb Top 250 on Thu 18-May-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 01-Sep-2008 with a rank of 250. It attained its highest rank on Thu 26-Oct-2006 with a rank of 185. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0048021/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0048021/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:59:37 GMT",
+          "title": "United 93 (2006)",
+          "link": "http://www.imdb.com/title/tt0475276/",
+          "guid": "http://www.imdb.com/title/tt0475276/",
+          "description": "&quot;<a href=\"/title/tt0475276/\">United 93</a> first appeared on the IMDb Top 250 on Mon 08-May-2006 with a rank of 247 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 28-May-2007 with a rank of 250. It attained its highest rank on Tue 27-Feb-2007 with a rank of 219. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0475276/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0475276/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:59:21 GMT",
+          "title": "Walk the Line (2005)",
+          "link": "http://www.imdb.com/title/tt0358273/",
+          "guid": "http://www.imdb.com/title/tt0358273/",
+          "description": "&quot;<a href=\"/title/tt0358273/\">Walk the Line</a> first appeared on the IMDb Top 250 on Mon 10-Apr-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sun 23-Sep-2007 with a rank of 249. It attained its highest rank on Wed 06-Sep-2006 with a rank of 178. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0358273/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0358273/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:59:05 GMT",
+          "title": "High and Low (1963)",
+          "link": "http://www.imdb.com/title/tt0057565/",
+          "guid": "http://www.imdb.com/title/tt0057565/",
+          "description": "&quot;<a href=\"/title/tt0057565/\">Tengoku to jigoku</a> first appeared on the IMDb Top 250 on Sat 01-Apr-2006 with a rank of 245 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 01-Feb-2008 with a rank of 246. It attained its highest rank on Sun 27-Aug-2006 with a rank of 170. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0057565/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0057565/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:58:42 GMT",
+          "title": "The Lost Weekend (1945)",
+          "link": "http://www.imdb.com/title/tt0037884/",
+          "guid": "http://www.imdb.com/title/tt0037884/",
+          "description": "&quot;<a href=\"/title/tt0037884/\">The Lost Weekend</a> first appeared on the IMDb Top 250 on Fri 24-Mar-2006 with a rank of 248 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 30-Oct-2009 with a rank of 210. It attained its highest rank on Tue 22-Jul-2008 with a rank of 194. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0037884/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0037884/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:58:26 GMT",
+          "title": "V for Vendetta (2005)",
+          "link": "http://www.imdb.com/title/tt0434409/",
+          "guid": "http://www.imdb.com/title/tt0434409/",
+          "description": "&quot;<a href=\"/title/tt0434409/\">V for Vendetta</a> first appeared on the IMDb Top 250 on Mon 20-Mar-2006 with a rank of 237 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 179. It attained its highest rank on Tue 02-Jan-2007 with a rank of 115. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0434409/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0434409/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:58:11 GMT",
+          "title": "Breathless (1960)",
+          "link": "http://www.imdb.com/title/tt0053472/",
+          "guid": "http://www.imdb.com/title/tt0053472/",
+          "description": "&quot;<a href=\"/title/tt0053472/\">&#xC0; bout de souffle</a> first appeared on the IMDb Top 250 on Thu 16-Mar-2006 with a rank of 244 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sat 08-Sep-2007 with a rank of 249. It attained its highest rank on Fri 24-Mar-2006 with a rank of 243. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0053472/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0053472/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:57:54 GMT",
+          "title": "No Man's Land (2001)",
+          "link": "http://www.imdb.com/title/tt0283509/",
+          "guid": "http://www.imdb.com/title/tt0283509/",
+          "description": "&quot;<a href=\"/title/tt0283509/\">No Man&#x27;s Land</a> first appeared on the IMDb Top 250 on Thu 16-Mar-2006 with a rank of 228 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sun 24-Dec-2006 with a rank of 247. It attained its highest rank on Fri 12-May-2006 with a rank of 219. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0283509/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0283509/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:57:36 GMT",
+          "title": "Out of the Past (1947)",
+          "link": "http://www.imdb.com/title/tt0039689/",
+          "guid": "http://www.imdb.com/title/tt0039689/",
+          "description": "&quot;<a href=\"/title/tt0039689/\">Out of the Past</a> first appeared on the IMDb Top 250 on Thu 16-Mar-2006 with a rank of 218 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 07-Aug-2008 with a rank of 249. It attained its highest rank on Mon 23-Oct-2006 with a rank of 178. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0039689/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0039689/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:57:19 GMT",
+          "title": "Match Point (2005)",
+          "link": "http://www.imdb.com/title/tt0416320/",
+          "guid": "http://www.imdb.com/title/tt0416320/",
+          "description": "&quot;<a href=\"/title/tt0416320/\">Match Point</a> first appeared on the IMDb Top 250 on Wed 01-Mar-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Wed 01-Mar-2006 with a rank of 250. It attained its highest rank on Wed 01-Mar-2006 with a rank of 250. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0416320/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0416320/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:57:02 GMT",
+          "title": "My Father and My Son (2005)",
+          "link": "http://www.imdb.com/title/tt0476735/",
+          "guid": "http://www.imdb.com/title/tt0476735/",
+          "description": "&quot;<a href=\"/title/tt0476735/\">Babam ve Oglum</a> first appeared on the IMDb Top 250 on Wed 01-Mar-2006 with a rank of 119 and a rating of 8.1. It last appeared on the IMDb Top 250 on Wed 01-Mar-2006 with a rank of 119. It attained its highest rank on Wed 01-Mar-2006 with a rank of 119. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0476735/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0476735/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:56:46 GMT",
+          "title": "Touching the Void (2003 Documentary)",
+          "link": "http://www.imdb.com/title/tt0379557/",
+          "guid": "http://www.imdb.com/title/tt0379557/",
+          "description": "&quot;<a href=\"/title/tt0379557/\">Touching the Void</a> first appeared on the IMDb Top 250 on Sun 26-Feb-2006 with a rank of 238 and a rating of 7.8. It last appeared on the IMDb Top 250 on Tue 21-Mar-2006 with a rank of 201. It attained its highest rank on Mon 20-Mar-2006 with a rank of 201. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0379557/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0379557/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:56:30 GMT",
+          "title": "Tosun Pasa (1976)",
+          "link": "http://www.imdb.com/title/tt0253828/",
+          "guid": "http://www.imdb.com/title/tt0253828/",
+          "description": "&quot;<a href=\"/title/tt0253828/\">Tosun Pasa</a> first appeared on the IMDb Top 250 on Sun 26-Feb-2006 with a rank of 123 and a rating of 8.1. It last appeared on the IMDb Top 250 on Wed 01-Mar-2006 with a rank of 152. It attained its highest rank on Sun 26-Feb-2006 with a rank of 123. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0253828/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0253828/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:56:12 GMT",
+          "title": "The Curse of the Were-Rabbit (2005)",
+          "link": "http://www.imdb.com/title/tt0312004/",
+          "guid": "http://www.imdb.com/title/tt0312004/",
+          "description": "&quot;<a href=\"/title/tt0312004/\">The Curse of the Were-Rabbit</a> first appeared on the IMDb Top 250 on Thu 16-Feb-2006 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 16-Apr-2007 with a rank of 248. It attained its highest rank on Sun 01-Oct-2006 with a rank of 166. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0312004/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0312004/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:55:55 GMT",
+          "title": "Brokeback Mountain (2005)",
+          "link": "http://www.imdb.com/title/tt0388795/",
+          "guid": "http://www.imdb.com/title/tt0388795/",
+          "description": "&quot;<a href=\"/title/tt0388795/\">Brokeback Mountain</a> first appeared on the IMDb Top 250 on Wed 08-Feb-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 11-Sep-2006 with a rank of 248. It attained its highest rank on Fri 01-Sep-2006 with a rank of 245. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0388795/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0388795/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:55:34 GMT",
+          "title": "Sweet Smell of Success (1957)",
+          "link": "http://www.imdb.com/title/tt0051036/",
+          "guid": "http://www.imdb.com/title/tt0051036/",
+          "description": "&quot;<a href=\"/title/tt0051036/\">Sweet Smell of Success</a> first appeared on the IMDb Top 250 on Tue 07-Feb-2006 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 29-Oct-2009 with a rank of 250. It attained its highest rank on Sat 13-May-2006 with a rank of 214. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0051036/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0051036/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:55:18 GMT",
+          "title": "3-Iron (2004)",
+          "link": "http://www.imdb.com/title/tt0423866/",
+          "guid": "http://www.imdb.com/title/tt0423866/",
+          "description": "&quot;<a href=\"/title/tt0423866/\">Bin-jip</a> first appeared on the IMDb Top 250 on Mon 06-Feb-2006 with a rank of 247 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 06-Feb-2006 with a rank of 247. It attained its highest rank on Mon 06-Feb-2006 with a rank of 247. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0423866/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0423866/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:55:00 GMT",
+          "title": "The Hidden Fortress (1958)",
+          "link": "http://www.imdb.com/title/tt0051808/",
+          "guid": "http://www.imdb.com/title/tt0051808/",
+          "description": "&quot;<a href=\"/title/tt0051808/\">Kakushi-toride no san-akunin</a> first appeared on the IMDb Top 250 on Fri 16-Dec-2005 with a rank of 248 and a rating of 7.8. It last appeared on the IMDb Top 250 on Wed 13-Jun-2007 with a rank of 245. It attained its highest rank on Thu 19-Apr-2007 with a rank of 237. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0051808/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0051808/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:54:32 GMT",
+          "title": "King Kong (2005)",
+          "link": "http://www.imdb.com/title/tt0360717/",
+          "guid": "http://www.imdb.com/title/tt0360717/",
+          "description": "&quot;<a href=\"/title/tt0360717/\">King Kong</a> first appeared on the IMDb Top 250 on Fri 16-Dec-2005 with a rank of 187 and a rating of 7.9. It last appeared on the IMDb Top 250 on Sat 24-Dec-2005 with a rank of 243. It attained its highest rank on Mon 19-Dec-2005 with a rank of 139. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0360717/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0360717/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:54:16 GMT",
+          "title": "Dersu Uzala (1975)",
+          "link": "http://www.imdb.com/title/tt0071411/",
+          "guid": "http://www.imdb.com/title/tt0071411/",
+          "description": "&quot;<a href=\"/title/tt0071411/\">Dersu Uzala</a> first appeared on the IMDb Top 250 on Wed 14-Dec-2005 with a rank of 231 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 15-Dec-2005 with a rank of 231. It attained its highest rank on Wed 14-Dec-2005 with a rank of 231. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0071411/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0071411/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:54:04 GMT",
+          "title": "The Rules of the Game (1939)",
+          "link": "http://www.imdb.com/title/tt0031885/",
+          "guid": "http://www.imdb.com/title/tt0031885/",
+          "description": "&quot;<a href=\"/title/tt0031885/\">La r&#xE8;gle du jeu</a> first appeared on the IMDb Top 250 on Wed 14-Dec-2005 with a rank of 226 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 15-Dec-2005 with a rank of 230. It attained its highest rank on Wed 14-Dec-2005 with a rank of 226. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0031885/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0031885/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:53:38 GMT",
+          "title": "Tokyo Story (1953)",
+          "link": "http://www.imdb.com/title/tt0046438/",
+          "guid": "http://www.imdb.com/title/tt0046438/",
+          "description": "&quot;<a href=\"/title/tt0046438/\">T&#xF4;ky&#xF4; monogatari</a> first appeared on the IMDb Top 250 on Wed 14-Dec-2005 with a rank of 224 and a rating of 7.9. It last appeared on the IMDb Top 250 on Tue 30-Aug-2011 with a rank of 249. It attained its highest rank on Wed 14-Dec-2005 with a rank of 224. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0046438/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0046438/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:53:25 GMT",
+          "title": "Aguirre, the Wrath of God (1972)",
+          "link": "http://www.imdb.com/title/tt0068182/",
+          "guid": "http://www.imdb.com/title/tt0068182/",
+          "description": "&quot;<a href=\"/title/tt0068182/\">Aguirre, der Zorn Gottes</a> first appeared on the IMDb Top 250 on Wed 14-Dec-2005 with a rank of 219 and a rating of 7.9. It last appeared on the IMDb Top 250 on Wed 17-Sep-2008 with a rank of 247. It attained its highest rank on Wed 14-Dec-2005 with a rank of 219. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0068182/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0068182/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:37:41 GMT",
+          "title": "The Nights of Cabiria (1957)",
+          "link": "http://www.imdb.com/title/tt0050783/",
+          "guid": "http://www.imdb.com/title/tt0050783/",
+          "description": "&quot;<a href=\"/title/tt0050783/\">Le notti di Cabiria</a> first appeared on the IMDb Top 250 on Wed 14-Dec-2005 with a rank of 210 and a rating of 7.9. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 225. It attained its highest rank on Fri 06-Oct-2006 with a rank of 118. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0050783/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0050783/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:37:29 GMT",
+          "title": "Howl's Moving Castle (2004)",
+          "link": "http://www.imdb.com/title/tt0347149/",
+          "guid": "http://www.imdb.com/title/tt0347149/",
+          "description": "&quot;<a href=\"/title/tt0347149/\">Hauru no ugoku shiro</a> first appeared on the IMDb Top 250 on Fri 09-Dec-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 221. It attained its highest rank on Fri 02-Sep-2011 with a rank of 221. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0347149/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0347149/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:37:09 GMT",
+          "title": "Beauty and the Beast (1946)",
+          "link": "http://www.imdb.com/title/tt0038348/",
+          "guid": "http://www.imdb.com/title/tt0038348/",
+          "description": "&quot;<a href=\"/title/tt0038348/\">La belle et la b&#xEA;te</a> first appeared on the IMDb Top 250 on Fri 09-Dec-2005 with a rank of 241 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 13-Mar-2009 with a rank of 250. It attained its highest rank on Tue 03-Oct-2006 with a rank of 162. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0038348/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0038348/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:36:53 GMT",
+          "title": "My Sassy Girl (2001)",
+          "link": "http://www.imdb.com/title/tt0293715/",
+          "guid": "http://www.imdb.com/title/tt0293715/",
+          "description": "&quot;<a href=\"/title/tt0293715/\">Yeopgijeogin geunyeo</a> first appeared on the IMDb Top 250 on Mon 05-Dec-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 10-Dec-2010 with a rank of 248. It attained its highest rank on Wed 14-Dec-2005 with a rank of 212. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0293715/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0293715/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:36:34 GMT",
+          "title": "Frankenstein (1931)",
+          "link": "http://www.imdb.com/title/tt0021884/",
+          "guid": "http://www.imdb.com/title/tt0021884/",
+          "description": "&quot;<a href=\"/title/tt0021884/\">Frankenstein</a> first appeared on the IMDb Top 250 on Mon 28-Nov-2005 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 17-Dec-2009 with a rank of 249. It attained its highest rank on Sat 28-Jul-2007 with a rank of 200. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0021884/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0021884/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:36:18 GMT",
+          "title": "Dear Frankie (2004)",
+          "link": "http://www.imdb.com/title/tt0377752/",
+          "guid": "http://www.imdb.com/title/tt0377752/",
+          "description": "&quot;<a href=\"/title/tt0377752/\">Dear Frankie</a> first appeared on the IMDb Top 250 on Wed 23-Nov-2005 with a rank of 248 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 24-Nov-2005 with a rank of 248. It attained its highest rank on Wed 23-Nov-2005 with a rank of 248. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0377752/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0377752/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:36:00 GMT",
+          "title": "Andrei Rublev (1966)",
+          "link": "http://www.imdb.com/title/tt0060107/",
+          "guid": "http://www.imdb.com/title/tt0060107/",
+          "description": "&quot;<a href=\"/title/tt0060107/\">Andrey Rublev</a> first appeared on the IMDb Top 250 on Tue 01-Nov-2005 with a rank of 247 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 30-Aug-2007 with a rank of 250. It attained its highest rank on Tue 28-Aug-2007 with a rank of 239. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0060107/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0060107/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:35:41 GMT",
+          "title": "A Very Long Engagement (2004)",
+          "link": "http://www.imdb.com/title/tt0344510/",
+          "guid": "http://www.imdb.com/title/tt0344510/",
+          "description": "&quot;<a href=\"/title/tt0344510/\">Un long dimanche de fian&#xE7;ailles</a> first appeared on the IMDb Top 250 on Sat 22-Oct-2005 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sun 06-Nov-2005 with a rank of 248. It attained its highest rank on Tue 01-Nov-2005 with a rank of 245. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0344510/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0344510/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:35:22 GMT",
+          "title": "White Heat (1949)",
+          "link": "http://www.imdb.com/title/tt0042041/",
+          "guid": "http://www.imdb.com/title/tt0042041/",
+          "description": "&quot;<a href=\"/title/tt0042041/\">White Heat</a> first appeared on the IMDb Top 250 on Thu 20-Oct-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Sat 12-Nov-2005 with a rank of 247. It attained its highest rank on Thu 03-Nov-2005 with a rank of 247. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0042041/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0042041/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:35:06 GMT",
+          "title": "The Cabinet of Dr. Caligari (1920)",
+          "link": "http://www.imdb.com/title/tt0010323/",
+          "guid": "http://www.imdb.com/title/tt0010323/",
+          "description": "&quot;<a href=\"/title/tt0010323/\">Das Cabinet des Dr. Caligari</a> first appeared on the IMDb Top 250 on Fri 30-Sep-2005 with a rank of 243 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 05-Dec-2008 with a rank of 250. It attained its highest rank on Tue 04-Jul-2006 with a rank of 155. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0010323/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0010323/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:34:48 GMT",
+          "title": "Ray (2004)",
+          "link": "http://www.imdb.com/title/tt0350258/",
+          "guid": "http://www.imdb.com/title/tt0350258/",
+          "description": "&quot;<a href=\"/title/tt0350258/\">Ray</a> first appeared on the IMDb Top 250 on Thu 08-Sep-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Tue 20-Sep-2005 with a rank of 249. It attained its highest rank on Wed 14-Sep-2005 with a rank of 249. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0350258/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0350258/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:34:31 GMT",
+          "title": "Serenity (2005)",
+          "link": "http://www.imdb.com/title/tt0379786/",
+          "guid": "http://www.imdb.com/title/tt0379786/",
+          "description": "&quot;<a href=\"/title/tt0379786/\">Serenity</a> first appeared on the IMDb Top 250 on Sat 27-Aug-2005 with a rank of 245 and a rating of 7.8. It last appeared on the IMDb Top 250 on Tue 06-Dec-2005 with a rank of 249. It attained its highest rank on Wed 12-Oct-2005 with a rank of 123. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0379786/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0379786/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:34:13 GMT",
+          "title": "Spring, Summer, Fall, Winter... and Spring (2003)",
+          "link": "http://www.imdb.com/title/tt0374546/",
+          "guid": "http://www.imdb.com/title/tt0374546/",
+          "description": "&quot;<a href=\"/title/tt0374546/\">Bom yeoreum gaeul gyeoul geurigo bom</a> first appeared on the IMDb Top 250 on Sat 30-Jul-2005 with a rank of 249 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 241. It attained its highest rank on Wed 14-Sep-2005 with a rank of 239. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0374546/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0374546/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:33:55 GMT",
+          "title": "Cinderella Man (2005)",
+          "link": "http://www.imdb.com/title/tt0352248/",
+          "guid": "http://www.imdb.com/title/tt0352248/",
+          "description": "&quot;<a href=\"/title/tt0352248/\">Cinderella Man</a> first appeared on the IMDb Top 250 on Mon 25-Jul-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 26-Jun-2008 with a rank of 248. It attained its highest rank on Sun 16-Jul-2006 with a rank of 167. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0352248/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0352248/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:33:36 GMT",
+          "title": "Tae Guk Gi: The Brotherhood of War (2004)",
+          "link": "http://www.imdb.com/title/tt0386064/",
+          "guid": "http://www.imdb.com/title/tt0386064/",
+          "description": "&quot;<a href=\"/title/tt0386064/\">Taegukgi hwinalrimyeo</a> first appeared on the IMDb Top 250 on Wed 13-Jul-2005 with a rank of 248 and a rating of 7.8. It last appeared on the IMDb Top 250 on Mon 30-Jun-2008 with a rank of 243. It attained its highest rank on Thu 15-Sep-2005 with a rank of 227. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0386064/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0386064/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:33:19 GMT",
+          "title": "The Chaos Class (1975)",
+          "link": "http://www.imdb.com/title/tt0252487/",
+          "guid": "http://www.imdb.com/title/tt0252487/",
+          "description": "&quot;<a href=\"/title/tt0252487/\">Hababam Sinifi</a> first appeared on the IMDb Top 250 on Thu 23-Jun-2005 with a rank of 242 and a rating of 7.8. It last appeared on the IMDb Top 250 on Thu 05-Jan-2006 with a rank of 250. It attained its highest rank on Sat 25-Jun-2005 with a rank of 226. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0252487/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0252487/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:32:57 GMT",
+          "title": "The Best of Youth (2003)",
+          "link": "http://www.imdb.com/title/tt0346336/",
+          "guid": "http://www.imdb.com/title/tt0346336/",
+          "description": "&quot;<a href=\"/title/tt0346336/\">La meglio giovent&#xF9;</a> first appeared on the IMDb Top 250 on Mon 20-Jun-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Wed 17-Aug-2005 with a rank of 249. It attained its highest rank on Mon 01-Aug-2005 with a rank of 233. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0346336/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0346336/\">Other lists for this film</a>&quot;"
+        },
+        {
+          "pubDate": "Thu, 08 Sep 2011 20:32:38 GMT",
+          "title": "Batman Begins (2005)",
+          "link": "http://www.imdb.com/title/tt0372784/",
+          "guid": "http://www.imdb.com/title/tt0372784/",
+          "description": "&quot;<a href=\"/title/tt0372784/\">Batman Begins</a> first appeared on the IMDb Top 250 on Thu 16-Jun-2005 with a rank of 250 and a rating of 7.8. It last appeared on the IMDb Top 250 on Fri 09-Sep-2011 with a rank of 113. It attained its highest rank on Sun 19-Jun-2005 with a rank of 64. You can see the full history <a class=\"offsite-link\" rel=\"nofollow\" href=\"http://top250.info/movie/?0372784/full\">here</a>.<br/><br/><a href=\"http://www.imdb.com/lists/tt0372784/\">Other lists for this film</a>&quot;"
+        }
+      ]
+    }
+  }
+}

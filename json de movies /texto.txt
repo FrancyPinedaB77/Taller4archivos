@@ -1,0 +1,10 @@
+Movie
+=====
+Title: clown et ses chiens, Le (1892)
+Genres: Animation, Short.
+Director: ?mile Reynaud.
+Runtime: 5.
+Country: France.
+Rating: 6.4 (135 votes).
+Plot: Short film of 300 individually painted images.
+
