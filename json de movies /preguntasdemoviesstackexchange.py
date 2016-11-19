@@ -20,6 +20,10 @@ site.throttle_stop = False
 site.answer_tags=True
 
 #Agregados
+site.score=True
+site.tags=True
+site.title=True
+
 
 
 #DEFINIENDO VARIABLES
@@ -29,26 +33,28 @@ page_index=9
 from_date=2015-02-01 #  mes y dia 
 
 
-#questions= site.questions(pagesize=page_size, page=page_index, fromdate=from_date, order="asc", sort="creation",title="true", body="true")
+#questions= site.questions(pagesize=page_size, page=page_index, fromdate=from_date, order="asc", sort="creation")
 
-questions= site.questions(pagesize=page_size, page=page_index, fromdate=from_date, order="asc")
+questions= site.questions(pagesize=page_size, page=page_index, fromdate=from_date, order="asc", body="true")
 
-#print questions
+print questions
 #coleccion.insert_one(questions)
 
 
 #Haciendolo por otro metodo  https://api.stackexchange.com/docs/answers#order=desc&sort=activity&filter=default&site=stackoverflow&run=true
 
-#c= 'https://api.stackexchange.com/2.2/info?site=movies.stackexchange' #informacion de movies.stackmovies
-#c='https://api.stackexchange.com/2.2/answers?order=desc&sort=activity&site=movies.stackexchange' #Trae los id de las preguntas t de  las respuestas 
-respuesta='https://api.stackexchange.com/2.2/answers?fromdate=1451606400&todate=1479340800&order=desc&sort=activity&site=movies.stackexchange&filter=!b0OfNQNpi--7V1'
+#respuesta='https://api.stackexchange.com/2.2/questions/49688/answers?order=desc&sort=activity&site=movies.stackexchange&&filter=!BTeL*ManaQHSwBa0W(c8Ny658KP5vq'
+#respuesta='https://api.stackexchange.com/2.2/questions/49688?order=desc&sort=activity&site=stackoverflow&filter=!SmaYtF75c)EwPIOfyb'
+#respuesta='https://api.stackexchange.com/2.2/questions/49688/answers?order=desc&sort=activity&site=movies.stackexchange&filter=!-*f(6t0VjPb5' #trae muchas cosas de todo
 
-resp = requests.get(url=respuesta)
+#preguntas='api.stackexchange.com/questions?order=asc&sort=activity&site=movies.stackexchange'
+
+#resp = requests.get(url=respuesta)
 #data = json.loads(resp.text)
 
-data = json.loads(resp.text)
+#data = json.loads(resp.text)
 
-print str(data) 
+#print str(data) 
 
 #os.system('mongoimport --db taller4 --collection preguntas <questions.json')
 

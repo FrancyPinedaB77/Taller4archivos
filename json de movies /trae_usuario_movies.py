@@ -14,8 +14,8 @@ cliente = MongoClient('127.0.0.1', 27017)#Indicar parametros del servidor
 bd = cliente.taller4 #Seleccionar Schema
 coleccion = bd.preguntas  #Seleccionar Coleccion
 
-x=20
-while x <=43000: 
+x=480
+while x <=600: 
     c= "https://api.stackexchange.com//2.2/users/"+str(x)+"?order=desc&sort=reputation&site=movies.stackexchange.com"
     #print c
     x=x+1
