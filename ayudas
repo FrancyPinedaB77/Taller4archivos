@@ -1,0 +1,143 @@
+
+
+mongoimport -d grupo14 -c permas --type csv --file mongoimport --db grupo14 --collection permas <@JuanManSantos_tweets.csv --headerline
+
+CONSULTAS EN MONGO USANDO REGEX db.people.find({"name": {$regex:".*fis"}},{name:1})
+
+
+--------------------COMANDO SUTILES PARA TODOE N MONGO-------------------------
+*COMO EXPORTAR LA BASE DE DATOS A UN LUGAR DEL PC
+
+1. Ir al directorio de instalación de  mongoDB . Por ejemplo: c:\mongodb\bin
+2. Para exportar la base de datos ejecutar el comando:
+
+mongodump.exe -h localhost -d nombreBDD -u usuario -p password -o c:\Temp\mongo
+
+sudo mongoexport --db newdb -c restaurants --out newdbexport.json
+
+
+sudo mongoexport --db grupo14 -c pertemas --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/tuis_usuarios_temas.json
+
+-h: IP o nombre del servidor
+-d: nombre de la base de datos
+-u: nombre de usuario
+-p: contraseña del usuario
+-o: directorio en dónde se desea exportar la base de datos
+
+*----------------------Ruta donde esta mongo en xubuntu-----------------------
+/var/lib/mongodb/
+
+dondes est mongo usar: locate mongod.conf
+
+*-------------------COMANDO PARA EL CASOS XUBUNTU---------------------------
+mongodump.exe -h localhost -d ejemplo -u mongouser -p 1234 -o /home/xubuntu/Seccion_Extraccion/BasesdeDatos/
+sudo mongoexport --db ejemplo -c ejemplo --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/ejemplo.json
+https://www.digitalocean.com/community/tutorials/how-to-import-and-export-a-mongodb-database-on-ubuntu-14-04
+
+funciono: xubuntu@xubuntu-VirtualBox:/usr/bin$ sudo mongoexport --db grupo14 -c pertemasemplo --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/basegrupo14.json
+
+
+exportando las del punto 3 
+
+sudo mongoexport --db tercerapartetallerbig -c corpus --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/corpus.json
+
+
+*----------------crear usuario y contraseña en mongo--------------------
+db.createUser(
+    {
+      user: "mongouser",
+      pwd: "1234",
+      roles: ["readWrite"]
+    }
+)
+
+*------------------ importando un dtaset ---------------------------------
+
+
+
+mongoimport --db grupo14 --collection corpus </home/bigdata11/corpus.json
+
+*-------------------SE IMPORTA CSV  "Sentiment"
+mongoimport -d tercerapartetallerbig -c Sentiment --type csv --file Sentiment.csv --headerline
+
+
+
+
+*--------------------IMPROTAR JSON A MONGO 
+
+mongoimport --db grupo14 --collection permas <impuestos.json
+
+*-----------------SE IMPORTA corpus "CORPUS"----------------------------
+
+mongoimport -d tercerapartetallerbig -c corpus --type csv --file corpus..csv --headerline
+
+*---------------------SE IMPORTA ARCHIVO debate08_sentiment_tweets---------------
+
+mongoimport --db tercerapartetallerbig --collection debate  --type tsv --file debate.tsv --fields tweet.id,pub.date.GMT,content,author.name,author.nickname,rating.1,rating.2,rating.3,rating.4,rating.5,rating.6,rating.7,rating.8
+
+
+
+mongoimport --db tercerapartetallerbig  --collection debate --type tsv  --file /home/xubuntu/Downloads/datasetparte3/los3archivos/debate08.tsv --headerline
+
+mongoimport -d tercerapartetallerbig -c debate --type tsv --file debate08_sentiment_tweets.tsv  --headerline
+
+
+mongoimport -h localhost:27017 -d tercerapartetallerbig -c debate -u mongouser -p 1234 --file debate08.tsv --type tsv --headerline
+
+mongoimport -d tercerapartetallerbi
+
+
+ -c debate --type tsv --file debate08_sentiment_tweets.tsv  
+
+--fields tweet.id,pub.date.GMT,content,author.name,author.nickname,rating.1,rating.2,rating.3,rating.4,rating.5,rating.6,rating.7,rating.8 --headerline
+
+*intento para importar el archivo tsv 
+
+mongoimport --db tercerapartetallerbig -c debate --type tsv --headerline --file home/xubuntu/Downloads/datasetparte3/los3archivos/debate08.tsv
+
+ mongoimport -d tercerapartetallerbig -c debate --type tsv --file debate08.tsv --headerline
+
+
+mongoimport --db tercerapartetallerbig --c debate --type tsv --file /debate.tsv -f tweet.id,pub.date.GMT,content,author.name,author.nickname,rating.1,rating.2,rating.3,rating.4,rating.5,rating.6,rating.7,rating.8
+
+
+sudo mongoexport --db grupo14 -c pertemas --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/grupo14.json
+
+
+
+
+
+
+
+
+*------------------para borrar cmapos de un documento-----------------------------
+
+collection.remove({"internacional":True})
+
+
+
+*-------------------CLAVE DE USUARIO DE LA BASE DE DATOS EN CLUSTER BIGDATA -------
+*----------------crear usuario y contraseña en mongo--------------------
+db.createUser(
+    {
+      user: "mongouser",
+      pwd:"pemofra",
+      roles: ["readWrite"]
+    }
+)
+
+
+*-------------------------------subiendo archivos 
+
+
+mongoimport --host clusterbigdata-57.virtual.uniandes.edu.co --port 27017 --username mongouser --password pemofra --collection corpus --db grupo14 --file /home/bigdata11/corpus.json
+
+*--------------importando desde local a ala base de datos -------------------------------*
+
+mongoimport --db grupo14 --collection sentiment <sentiment.json
+
+sudo mongoexport --db grupo14 -c completa --out /home/xubuntu/Seccion_Extraccion/BasesdeDatos/completa.json
+
+
+
+
