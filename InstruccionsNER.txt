@@ -1,0 +1,9 @@
+Pasos para usar nltk
+
+1.intalar nltk :sudo pip install nltk
+
+2.import nltk
+
+3.nltk.download()
+
+4.ir a modelos y descargar punk y correr de nuevo 
