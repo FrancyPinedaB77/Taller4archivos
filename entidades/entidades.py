@@ -29,9 +29,11 @@ user=0
 consulta1= coleccion.find({},{"items.body":1,"_id":0}) 
 for user in consulta1: 			#Llega la consulta
 	c = user.get("items")		#llega el body	
+	id_pregunta=user.get("id_question")	
 	c=str(c)			#lo paso a string
 	c= c.replace("'"," ")		#le quitan las comillas que generan error
 #	print c
+#	print id_pregunta
 	tokenized_text = word_tokenize(c) #se separa por palabras
 	classified_text = st.tag(tokenized_text) #se usa el clasificador 
 	array=classified_text						#aca trae el body de la pregunta separadas las palabras 
@@ -48,12 +50,10 @@ for user in consulta1: 			#Llega la consulta
 		    t += [t.pop(0)]
 		    t=tuple(t)
 		    entidades.append(t)
-        #entidades=json.dumps(dict(entidades))
-	#docs_list = entidades
-	#entidades=json.dumps(docs_list, default=json_util.default)
         entidades=json.loads(json.dumps(dict(entidades)))
 	print entidades
-        coleccion.update({"items.question_id":104},{"$set":{"entidades":entidades}},multi=True)
+        #coleccion.update({"items.question_id":104},{"$set":{"entidades":entidades}},multi=True)
+        coleccion.update({},{"$set":{"entidades":entidades}},multi=True)
 
 
 
