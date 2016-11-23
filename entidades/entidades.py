@@ -1,5 +1,6 @@
-# -*- coding: utf-8 -*-
 from pymongo import MongoClient
+import json 
+from bson import json_util 
 import nltk 
 import json
 from nltk.tag import StanfordNERTagger
@@ -47,10 +48,12 @@ for user in consulta1: 			#Llega la consulta
 		    t += [t.pop(0)]
 		    t=tuple(t)
 		    entidades.append(t)
-		    print entidades	
-        entidades=json.dumps(dict(entidades))
-        print entidades
-
+        #entidades=json.dumps(dict(entidades))
+	#docs_list = entidades
+	#entidades=json.dumps(docs_list, default=json_util.default)
+        entidades=json.loads(json.dumps(dict(entidades)))
+	print entidades
+        coleccion.update({"items.question_id":104},{"$set":{"entidades":entidades}},multi=True)
 
 
 

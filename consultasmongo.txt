@@ -3,7 +3,7 @@ db.body_pregunta.find({},{"items.body":1,"_id":0}) : trae todos los dody
 
 consulta1=coleccion.find({},{"items.question_id":1,"_id":0}) :trae todos los id_question
 
- db.body_pregunta.remove( {"_id": ObjectId("58348447bca8553d67cfda61")});    #Remueve por id 
+ db.body_pregunta.remove( {"item.question_id":10});    #Remueve por id 
 
 db.ejemploborrar.update({},{$set : {"entidades":1}},false,true) : agrega un nuevo campo 
 
@@ -12,4 +12,4 @@ db.ejemploborrar.update({}, {$set: {entidades: "Muchoslygarespaises"}}, { multi:
 
 db.ejemploborrar.update({"items.question_id ":55100},{$set : {"entidades":123456789abcde}})
 
-db.ejemploborrar.update({"items.question_id":55},{$set : {"lasentidades":{"DATE":"October","MONEY":"32000","LOCATION":"Colombia"}}}) # Crea un nuevo campo 
+db.ejemploborrar.update({"items.question_id":103},{$set : {"lasentidades":{"DATE":"October","MONEY":"32000","LOCATION":"Colombia"}}}) # Crea un nuevo campo 
