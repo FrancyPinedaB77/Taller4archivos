@@ -1,0 +1,3 @@
+sudo mongoexport --db taller4 -c body_respuestas --out /home/xubuntu/Taller4/Taller4archivos/Colecciones_Exportadas/body_respuestas.json
+
+mongoimport --host=clusterbigdata-57.virtual.uniandes.edu.co --db grupo14 --collection preguntas_respuestas --type json preguntas_respuestas.json

@@ -6,21 +6,18 @@ import json
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 
-
 #Conexion a MongoDB
 cliente = MongoClient()#Inicializar objeto
 cliente = MongoClient('127.0.0.1', 27017)#Indicar parametros del servidor
 bd = cliente.taller4 #Seleccionar Schema
 coleccion = bd.body_pregunta  #Seleccionar Coleccion
 
-
 st = StanfordNERTagger('/home/xubuntu/Taller4/nueva/classifiers/english.muc.7class.distsim.crf.ser.gz',
 	'/home/xubuntu/Taller4/nueva/stanford-ner.jar',encoding='utf-8')
-
 i=0
 pregunta=0
 #-----parametros de Consultas en mongo------#
-consulta1= coleccion.find({"items.question_id":{"$gte":55821}})
+consulta1= coleccion.find({"items.question_id":{"$gte":56536}})
 
 for pregunta in consulta1: 			#Llega la consulta
 	c= pregunta.get("items")[0]["body"]

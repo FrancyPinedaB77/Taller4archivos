@@ -22,6 +22,7 @@ for i in range (len(array)) :
             t += [t.pop(0)]
 	    t=tuple(t)
 	    entidades.append(t)
+	    print entidades
 entidades=json.dumps(dict(entidades))
 print entidades
 
