@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+        <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+
+</head>
+<body>
+<style type="text/css">
+    #mapid { 
+  height: 1280px; 
+}
+
+</style>
+<div id="mapid">
+<script type="text/javascript">
+var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'francy777.270ba7kb', //https://www.mapbox.com/studio/classic/projects/
+    accessToken: 'pk.eyJ1IjoiZnJhbmN5Nzc3IiwiYSI6ImNpdndzY294eDAwdW0yenBieDN1dDRrcWgifQ.XY7FywK8FL23oiRD2vX8Bw'
+}).addTo(mymap);
+
+
+var markers = L.markerClusterGroup();
+L.markerClusterGroup().addLayer(L.marker(getRandomLatLng(map)));
+... Add more layers ...
+map.addLayer(markers);
+
+
+
+
+var marker1 = L.markerClusterGroup([51.5, -0.09]).addLayer(L.marker(getRandomLatLng(map)));
+var marker2 = L.markerClusterGroup([4.598889, -74])addLayer(L.marker(getRandomLatLng(map))).
+var marker3 = L.markerClusterGroup([48.8567, 2.35083]).addLayer(L.marker(getRandomLatLng(map)));
+var marker4 = L.markerClusterGroup([40.4333, -3.7]).addLayer(L.marker(getRandomLatLng(map)));
+
+//colocnado a cada punto informacion popup
+marker1.bindPopup("<b>PUunto de localizacion</b><br>Esto es un popup.");
+marker2.bindPopup("Debe ser España");
+marker3.bindPopup("Debe ser España");
+marker4.bindPopup("Debe ser Francia");
+
+var popup = L.popup()
+    .setLatLng([4.598889, -74])
+    .setContent("PROYECTO BIGDATA2016")
+    .openOn(mymap);
+
+//colocnado a cada punto informacion popup
+marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+
+
+
+var popup = L.popup()
+    .setLatLng([51.5, -0.09])
+    .setContent("I am a standalone popup.")
+    .openOn(mymap);
+
+</script>
+</div>
+</body>
+</html>

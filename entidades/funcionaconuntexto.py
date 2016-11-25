@@ -17,14 +17,14 @@ entidades=[]
 for i in range (len(array)) :
 	k=array[i][1]
 	if k!="O":
-	    t=array[i]
-	    t=list(t)
-            t += [t.pop(0)]
-	    t=tuple(t)
-	    entidades.append(t)
-	    print entidades
+		t=array[i]
+		t=list(t)
+		t += [t.pop(0)]
+		print t
+		t=tuple(t)
+		entidades.append(t)
+		entidad1=json.loads(json.dumps(dict(entidades)))
+	    #print entidad1
+	    #print entidades
 entidades=json.dumps(dict(entidades))
-print entidades
-
-
-
+#print entidades
