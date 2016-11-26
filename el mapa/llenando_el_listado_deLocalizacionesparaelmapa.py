@@ -17,10 +17,10 @@ coleccion = bd.body_pregunta #Seleccionar Coleccion
 a=0
 pregunta=0
 #-----parametros de Consultas en mongo------# respuestas en 63488
-consulta1= coleccion.find({"items.question_id":{"$gte":60000}})
+consulta1= coleccion.find({"items.question_id":{"$gte":60000}}) #
 #------------informacion para traer de DBPEDIA.......................
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
-
+localizaciones_js=[]
 
 for pregunta in consulta1: 			#Llega la consulta
 	titulo_pregunta= pregunta.get("items")[0]["title"]
@@ -49,9 +49,9 @@ for pregunta in consulta1: 			#Llega la consulta
 				if len(prueba_que_tenga)==1:
 					for trae_latitud in results["results"]["bindings"]:
 						punto_latitud=(trae_latitud["lat"]["value"]) 
-					print texto_marcador   
-					print "esta es la latitut" +"de" + lugar
-					print punto_latitud
+					#print texto_marcador   
+					#print "esta es la latitut" +"de" + lugar
+					#print punto_latitud
 					#se busca la longitud
 					sparql.setQuery("""
 					    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -62,12 +62,16 @@ for pregunta in consulta1: 			#Llega la consulta
 					results = sparql.query().convert()
 					for trae_longitud in results["results"]["bindings"]:
 						punto_longitud=(trae_longitud["long"]["value"]) 
-					print "esta es la longitud" +"de" + lugar
-					print punto_longitud
-					print "-------------------------------------------------------------"
+					#print "esta es la longitud" +"de" + lugar
+					#print punto_longitud
+					#print "-------------------------------------------------------------"
+					array_completo=[str(texto_marcador),float(punto_latitud),float(punto_longitud)]
+					#print array_completo
+					localizaciones_js.append(array_completo)
+				print localizaciones_js
 
 		except Exception as error:
-			print('ereerror: ' + repr(error)+"-" +lugar +":")
-
-
+			aa=3
+			#print('ereerror: ' + repr(error)+"-" +lugar +":")
+print localizaciones_js
 	#entidades.append(t)
