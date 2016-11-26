@@ -24,30 +24,25 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 sparql.setQuery("""
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
     SELECT ?lat
-    WHERE { <http://dbpedia.org/resource/Colombia> geo:lat ?lat }
+    WHERE { <http://dbpedia.org/resource/France> geo:lat ?lat }
 """)
 sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
 for result in results["results"]["bindings"]:
-	a=2
-	#print (result["lat"]["value"]).decode(string)
-lat=(result["lat"]["value"])    
+    lat=(result["lat"]["value"])    
 print "esta es la latitut"
 print lat
-
 #Trae los valores de longitud 
 sparql.setQuery("""
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
     SELECT ?long
-    WHERE { <http://dbpedia.org/resource/Colombia> geo:long ?long }
+    WHERE { <http://dbpedia.org/resource/France> geo:long ?long }
 """)
 sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
 #print results
 for result in results["results"]["bindings"]:
-	a=2
-	#print (result["long"]["value"])
-longit=(result["long"]["value"]) 
+    longit=(result["long"]["value"]) 
 print "esta es la longitud"   
 print longit
 
@@ -61,5 +56,3 @@ sparql.setQuery("""
 sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
 print results["results"]["bindings"][3]["comment"]["value"]
-
-
