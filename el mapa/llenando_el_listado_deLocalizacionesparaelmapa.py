@@ -12,12 +12,12 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 cliente = MongoClient()#Inicializar objeto
 cliente = MongoClient('127.0.0.1', 27017)#Indicar parametros del servidor
 bd = cliente.taller4 #Seleccionar Schema
-coleccion = bd.body_pregunta #Seleccionar Coleccion
+coleccion = bd.preguntasdesdejunio #Seleccionar Coleccion
 
 a=0
 pregunta=0
 #-----parametros de Consultas en mongo------# respuestas en 63488
-consulta1= coleccion.find({"items.question_id":{"$gte":60000}}) #
+consulta1= coleccion.find({"items.question_id":{"$gte":55059}}) #
 #------------informacion para traer de DBPEDIA.......................
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 localizaciones_js=[]
