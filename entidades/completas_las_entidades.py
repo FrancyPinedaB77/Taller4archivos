@@ -29,7 +29,7 @@ entidades = []
 try:
 	bd = cliente.taller4 #Seleccionar Schema
 	coleccion = bd.body_respuestas  #Seleccionar Coleccion
-	consulta1= coleccion.find({"items.question_id":{"$gte":60000}})
+	consulta1= coleccion.find({"items.question_id":{"$gte":61824}})
 	cliente.close()
 	for pregunta in consulta1:
 		c= pregunta.get("items")[0]["body"]

@@ -4,3 +4,7 @@ mongoimport --host=clusterbigdata-57.virtual.uniandes.edu.co --db grupo14 --coll
 
 
 mongoimport --db taller4 --collection respuestas_tuits --type json qa.json
+
+
+
+sudo mongoexport --db taller4 -c body_pregunta --out /home/xubuntu/Taller4/Taller4archivos/Colecciones_Exportadas/body_pregunta.json

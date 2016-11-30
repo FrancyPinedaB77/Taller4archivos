@@ -1,0 +1,19 @@
+60156  de be pasar a : 60163
+60553  :60579
+
+60683 : 60692
+
+60712: hasta :
+
+61131 hasta 61637
+
+ 61686 hasta 61698
+
+
+
+QUEDO EN 61821 EL DE ENTIDADES 
+
+xubuntu@xubuntu-VirtualBox:~/Taller4/Taller4archivos/entidades$ python completas_las_entidades.py 
+
+
+61821 A 61824

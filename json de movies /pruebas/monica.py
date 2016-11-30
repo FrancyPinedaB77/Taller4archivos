@@ -17,13 +17,11 @@ coleccion = bd.peliculas  #Seleccionar Coleccion
 
 a=["titanic","Die"]
 for x in range (len(a)):
-#if x=0
-#a= "titanic"
-c= 'http://www.omdbapi.com/?t='+a[x]
-print c
-x=x+1
-#print c
-resp = requests.get(url=c)
-data = json.loads(resp.text)
-print str(data)
+	c= 'http://www.omdbapi.com/?t='+a[x]
+	print c
+	x=x+1
+	#print c
+	resp = requests.get(url=c)
+	data = json.loads(resp.text)
+	print str(data)
 coleccion.insert_one(data)
