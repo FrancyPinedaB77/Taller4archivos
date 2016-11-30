@@ -3,7 +3,7 @@ sudo mongoexport --db taller4 -c body_pregunta --out /home/xubuntu/Taller4/Talle
 mongoimport --host=clusterbigdata-57.virtual.uniandes.edu.co --db grupo14 --collection preguntas_respuestas --type json preguntas_respuestas.json
 
 
-mongoimport --db taller4 --collection respuestas_tuits --type json qa.json
+mongoimport --db taller4 --collection tuit_respuesta --type json tuit_respuesta.json
 
 
 
